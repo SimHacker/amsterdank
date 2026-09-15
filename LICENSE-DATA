@@ -1,0 +1,68 @@
+# Data licensing
+
+Three different things live in this repository and they cannot share one license,
+because facts, photographs, and other people's databases are legally different
+objects. Permissive throughout -- attribution where a human made something,
+nothing at all where the data is just true.
+
+## 1. The facts: CC0-1.0 (public domain dedication)
+
+**Applies to:** `places/**/*.yml`, `data/*.csv`, and every coordinate, address,
+name, opening hour, price, and tag in them that was observed by us.
+
+SPDX: `CC0-1.0` · Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Why the most permissive option rather than CC-BY: the purpose of this dataset is
+for its facts to reach the commons, and **attribution requirements on factual data
+are precisely what makes data hard to move into OpenStreetMap.** A CC-BY dataset
+needs a waiver before an OSM contributor can safely use it; a CC0 dataset needs
+nothing. Requiring credit for having noticed that a shop is at number 90 would be
+a toll booth on a fact, and it would defeat the point.
+
+Credit is still welcome. It is just not a condition.
+
+## 2. The photographs: CC-BY-4.0
+
+**Applies to:** `places/**/survey/*`, and the 2009 survey photographs.
+
+SPDX: `CC-BY-4.0` · Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+Attribute to: **Don Hopkins**
+
+A photograph is authorship: someone stood in the rain across the street and chose
+the framing. Credit is a condition here, unlike the facts the photograph happens
+to prove. Note that the *coordinates and readings extracted from* a photograph are
+facts under section 1, so a machine may take the number off the door and put it in
+OSM without attributing the picture.
+
+## 3. Other people's data: not ours to license
+
+**Applies to:** anything under `data/third-party/`, which is `.gitignore`d and
+does not ship.
+
+Two distinct hazards, quarantined by construction rather than by good intentions:
+
+- **Proprietary map data.** Coordinates, names, and hours traced from a commercial
+  mapping service carry that service's terms. Sources are marked `osm_ok: false` in
+  [`sources.yml`](sources.yml) and may never reach an OSM changeset, however
+  convenient. See [`skills/coffeeshop/SKILL.md`](skills/coffeeshop/SKILL.md).
+
+- **Third-party compilations.** A directory someone else assembled may carry an EU
+  database right (Dutch *Databankenwet*) protecting their investment in collecting
+  it, separately from any copyright in the individual facts. Bulk republication is
+  their call, not ours. Local extracts stay local.
+
+## 4. OpenStreetMap data: ODbL, and kept apart on purpose
+
+**Applies to:** anything under `data/osm/`, which is a cache, not a source of truth.
+
+SPDX: `ODbL-1.0` · https://opendatacommons.org/licenses/odbl/1-0/
+
+OSM is share-alike. Merging OSM data into our YAML would make the merged result a
+derived database and pull the whole thing under ODbL, which would contradict
+section 1. So OSM material stays in its own directory, is referenced by ID rather
+than copied, and is never folded into the canonical records. We read OSM. We do not
+absorb it.
+
+The traffic in the other direction is manual and deliberate: findings from our own
+surveys are typed into an OSM editor by a human, as their own survey, from their own
+photographs. No script here writes to OSM.

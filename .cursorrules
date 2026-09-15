@@ -1,0 +1,50 @@
+# amsterdank — MOOLLM-compatible application repo
+# Pointers only. The conventions live upstream; this file says where.
+
+repo: amsterdank
+moollm_compatible: true
+upstream: "https://github.com/SimHacker/moollm"
+
+rules:
+
+  - name: boot-sequence
+    description: "Start here when entering amsterdank."
+    steps:
+      - "Read skills/INDEX.yml — what is local, what is inherited from moollm."
+      - "Read sources.yml — every source, its license, its osm_ok flag. Nothing is fetched or trusted without an entry here."
+      - "Read skills/coffeeshop/GLANCE.yml, then CARD.yml, then SKILL.md only if authoring."
+      - "For place/room/budtender conventions, read them in the moollm repo. Do not vendor copies."
+
+  - name: yaml-is-the-truth
+    description: "Direction of authority is one-way."
+    rules:
+      - "places/<id>/PLACE.yml is canonical. data/*.csv and any database are DERIVED."
+      - "Never hand-edit a derived file. Regenerate it."
+      - "Generators PROPOSE and never overwrite hand-written YAML comments. The comments are the fieldwork."
+
+  - name: provenance-has-teeth
+    description: "Two legal directions, enforced structurally. See LICENSE-DATA."
+    rules:
+      - "Every value carries source, observed date, and confidence. A value without provenance is not data."
+      - "osm_ok: false sources may NEVER reach an OSM changeset. No exceptions for convenience."
+      - "OSM material stays in data/osm/, referenced by ID, never merged into PLACE.yml — ODbL share-alike would swallow the repo."
+      - "Nothing here writes to OSM. Findings leave as a worklist a human types into an editor."
+      - "Third-party compilations are gitignored. An EU database right can protect the collection even when the facts are free."
+
+  - name: keep-the-disagreement
+    description: "Conflicts are the interesting part."
+    rules:
+      - "Claims accumulate; they are never replaced. Resolution happens at read time, reversibly."
+      - "Never average two coordinates. The mean of two buildings is a canal."
+      - "Absence means unknown, never false."
+      - "'Illegible' is a legitimate value and schedules a revisit. A guess is not."
+
+  - name: menus-stay-polymorphic
+    description: "Each shop's board is its own ontology."
+    rules:
+      - "Keep the shop's categories, labels, capitals and Dutch verbatim. Project to the shared vocabulary; never rewrite into it."
+      - "Keep the unit as sold. A fixed-price bag has no gram price, and computing one is fabrication with a decimal point."
+
+  - name: no-decorative-comments
+    description: "Inherited from moollm. Comments must add meaning."
+    forbidden: ["# ═══════", "# ───────", "# =======", "# -------"]

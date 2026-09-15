@@ -1,0 +1,44 @@
+# INDEX.yml — skills in this repo
+#
+# A MOOLLM-compatible application repo. Skills that are bound to this subject
+# matter live here; general-purpose skills are inherited from moollm and are
+# referenced, never vendored.
+#
+# The split rule: does it have a jurisdiction? A tolerated address under an
+# Amsterdam beleidsregel does. A place on Earth does not.
+
+repo: amsterdank
+moollm_compatible: true
+
+upstream:
+  repo: "https://github.com/SimHacker/moollm"
+  skills_index: "https://github.com/SimHacker/moollm/blob/main/skills/INDEX.yml"
+  # Read these from moollm when a record inherits from them. Do not copy them here;
+  # a vendored skill is a skill that silently forks.
+  consumed:
+    place: "https://github.com/SimHacker/moollm/tree/main/skills/place"      # address as subject, coordinates as claims, OSM identity
+    room: "https://github.com/SimHacker/moollm/tree/main/skills/room"        # the interior, contents, advertisements
+    budtender: "https://github.com/SimHacker/moollm/tree/main/skills/budtender"  # the person behind the counter
+    character: "https://github.com/SimHacker/moollm/tree/main/skills/character"
+    yaml-jazz: "https://github.com/SimHacker/moollm/tree/main/skills/yaml-jazz"
+
+skills:
+
+  coffeeshop:
+    # 👁️ GLANCE.yml → 📇 CARD.yml → 📜 SKILL.md
+    dir: skills/coffeeshop/
+    what: "A tolerated address whose menu is its own ontology."
+    inherits: [coffeeshop, room, place]   # left to right; coffeeshop wins conflicts
+    the_one_idea: |
+      Every shop's menu is a different ontology and that is data, not mess. The schema
+      is fixed; the categories, labels, units and axes are the shop's own words, with a
+      projection to a coarse shared vocabulary for querying. Nothing is normalized away.
+    why_here: "gedoogd status is a Dutch municipal instrument. Jurisdiction-bound, so not upstream."
+    activates_on: [coffeeshop, menu, board, gedoogd, wiet, hasj, geotoking, budtender, bingo]
+    plugins:
+      BUDTENDERS.md: "consent tiers for real people at the counter; the robot when nobody agreed"
+      GEOTOKING.md: "inventory, spots without addresses, signed episodes, Bongo Bingo"
+    a_shop_is_a_directory: |
+      places/<id>/ holds PLACE.yml (moollm place), ROOM.yml (moollm room), COFFEESHOP.yml,
+      and subdirectories menu/ survey/ characters/ objects/. The listing is the index of
+      what has been done: no menu/ means nobody has read the board yet.

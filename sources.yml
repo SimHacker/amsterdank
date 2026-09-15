@@ -1,0 +1,101 @@
+# Every claim in data/claims.csv names a source id from this registry.
+# License and OSM-compatibility live HERE and nowhere else, so a policy change is
+# one edit and the build script can enforce it mechanically.
+#
+# osm_ok is the only field with teeth: scripts/build_register.py refuses to put a
+# claim into the osm-safe view unless its source says true. An OSM changeset built
+# from a false source is a copyright violation, gets reverted, and can flag the
+# account -- so the rule is structural rather than remembered.
+
+sources:
+
+  gedooglijst-2026-03-05:
+    name: "Gedooglijst Amsterdam (beleidsregel van de burgemeester)"
+    url: "https://lokaleregelgeving.overheid.nl/CVDR756282/2"
+    kind: official
+    valid_from: 2026-03-05
+    license: "none -- Auteurswet art. 11: no copyright subsists in laws, decrees and official publications"
+    osm_ok: true
+    authority: "The only authority on WHICH ADDRESSES may sell. Says nothing about names, hours, or whether a door is open today."
+    note: "Republished in full on every change. Two of the 167 rows are hand-typed oddly (Hoekenrode 14B, Tt. Vasumweg 4c); a strict parser drops them and reports 165."
+
+  cannamaps:
+    name: "CannaMap (xxenu/cannamaps, by Vuk Smiljanic)"
+    url: "https://github.com/xxenu/cannamaps"
+    kind: compilation
+    retrieved: 2026-09-15
+    license: "UNLICENSED -- no LICENSE file, therefore all rights reserved; NL Databankenwet sui generis right plausibly applies to the compilation"
+    osm_ok: false
+    reason_not_ok: "Not because the facts are tainted -- his coordinates come from PDOK and Nominatim, which are fine -- but because the compilation is unlicensed. Evidence only until Vuk answers."
+    use: "Cross-check and lead generation. Never redistribute his menu photographs, logos, or the compiled database."
+    upstreams: [coffeeshopmenus-org, greenmeister, coffeeshopdirect, pdok, osm]
+
+  coffeeshopmenus-org:
+    name: "coffeeshopmenus.org"
+    url: "https://www.coffeeshopmenus.org/"
+    kind: archive
+    license: "unknown"
+    osm_ok: false
+    note: "CannaMap's origin for names, addresses, logos and menu-board photographs. Provenance chains through to here rather than stopping at CannaMap."
+
+  greenmeister:
+    name: "greenmeister.com"
+    url: "https://en.greenmeister.com/"
+    kind: directory
+    license: "unknown"
+    osm_ok: false
+    note: "CannaMap's nationwide seed list and most of its opening hours."
+
+  coffeeshopdirect:
+    name: "coffeeshopdirect.com"
+    kind: directory
+    license: "unknown"
+    osm_ok: false
+    note: "Hours, websites, Instagram, many coordinates, and CannaMap's closed-status flags."
+
+  pdok:
+    name: "PDOK Locatieserver (Kadaster)"
+    url: "https://www.pdok.nl/"
+    kind: official
+    license: "open government data (CC BY 4.0 / public task)"
+    osm_ok: true
+    note: "Dutch government geocoder. The clean way to turn a roster address into a coordinate."
+
+  osm:
+    name: "OpenStreetMap"
+    url: "https://www.openstreetmap.org/"
+    kind: commons
+    license: "ODbL 1.0 -- share-alike, attribution required"
+    osm_ok: true
+    note: "Reading is free; anything derived and published carries ODbL obligations. eBike Safari's base layer."
+
+  google-places-legacy:
+    name: "Legacy Google Place pages and Google-derived coordinates"
+    kind: proprietary
+    license: "proprietary -- Google Maps terms forbid extraction and redistribution"
+    osm_ok: false
+    hard_rule: "NEVER upload anything traced to this source to OSM. Not the coordinate, not the name spelling, not the hours. This is the single fastest way to get a changeset reverted."
+    use: "A link out for humans, and a hint for where to look with your own eyes."
+
+  historical-sheet:
+    name: "Don's Amsterdam coffeeshop spreadsheet (58 columns, 2010s)"
+    kind: own
+    license: "own work"
+    osm_ok: true
+    note: "Historic names, former locations, Foursquare/Swarm IDs, amenities, local notes. Stale by a decade, so age is the caveat, not provenance. NOT YET IMPORTED -- drop the export in data/incoming/ and write an importer."
+
+  field-survey:
+    name: "eBike Safari field survey (Don, on the bike)"
+    kind: own
+    license: "own work"
+    osm_ok: true
+    authority: "The only evidence that is unambiguously clean to upload AND current. Photograph, GPS trace, and what the staff said."
+    note: "This is the point of the whole exercise. Every other source is a lead for the ride."
+
+  user-lead:
+    name: "Remembered by Don, unverified"
+    kind: own
+    license: "own work"
+    osm_ok: false
+    reason_not_ok: "Memory is a lead, not a survey. Promote to field-survey or a citation before it counts."
+    note: "Where the horse-crane story and 'that place by the Vondelkerk' live until they are confirmed."

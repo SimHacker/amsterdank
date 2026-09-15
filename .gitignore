@@ -1,0 +1,27 @@
+.DS_Store
+*.pyc
+__pycache__/
+
+# MOOLLM runtime state: working set, hot list, probes, scratch. Never committed.
+.moollm/
+
+# Other people's compilations. A third-party directory may carry an EU database
+# right in the collection itself, so bulk extracts stay on the machine that made
+# them until the compiler says otherwise. See LICENSE-DATA section 3.
+data/third-party/
+data/claims-cannamaps.csv
+# Derived, and currently mixes third-party claim values into its cells, so it would
+# republish a compilation by the back door. Regenerate locally; ships once the
+# non-redistributable sources are either cleared or excluded from the build.
+data/register.csv
+
+# OSM cache. ODbL and share-alike, so it is fetched rather than vendored, and
+# never merged into the canonical YAML. See LICENSE-DATA section 4.
+data/osm/
+
+# Photographs are big and live elsewhere until a survey is curated. Originals of
+# the 2009 set are in the old Coffeeshops trunk, not here.
+*.heic
+*.HEIC
+places/**/survey/*.jpg
+places/**/survey/*.JPG

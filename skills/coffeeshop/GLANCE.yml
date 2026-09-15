@@ -1,0 +1,61 @@
+# GLANCE.yml — coffeeshop
+#
+# A Dutch coffeeshop, modelled as what it legally is: a TOLERATED ADDRESS with a
+# business in it. Not a café, not a dispensary, not a shop that sells coffee.
+
+skill: coffeeshop
+emoji: 🌿
+tier: 2
+one_line: "A gedoogd address with a menu that is its own ontology, staffed by a budtender, standing in a room, sitting on a place."
+
+inherits: [room, place]
+# The multiple inheritance is not decoration. Each parent answers a different question:
+#   place  — where is it, which building, what does OSM call it, who was here before
+#   room   — what happens when you walk IN: contents, exits, what it advertises
+#   this   — may it sell, under what conditions, and what is on the board today
+# Left to right wins collisions, so `coffeeshop.name` beats `place.name` beats nothing.
+
+the_legal_shape: |
+  Nothing is legalized; sales are TOLERATED at listed addresses. In Amsterdam the
+  burgemeester keeps a gedooglijst -- 167 addresses as of 2026-03-05 -- and publishes
+  it as a beleidsregel with a validity date. The license attaches to the ADDRESS, not
+  the business, which is exactly why `place` is the parent that holds identity and
+  this skill only holds the permission.
+
+the_one_idea: |
+  EVERY COFFEESHOP HAS ITS OWN CANNABIS ONTOLOGY, AND THAT IS DATA, NOT NOISE.
+
+  One board reads WIET / HASJ / VOORGEDRAAID. The next reads Indica / Sativa /
+  Hybrid. The next sorts by price tier, or by Nederhasj versus import, or by bio.
+  How a shop cuts the world is a fact ABOUT THE SHOP -- its clientele, its era, its
+  self-image. Forcing all of them into one schema deletes the most interesting field
+  in the dataset.
+
+  So the shop's own taxonomy is primary and verbatim, and a `projects_to:` mapping
+  lifts each local category into a deliberately coarse shared vocabulary that exists
+  only for cross-shop queries and can never be authored directly. YAML Jazz makes
+  this free: the labels stay in the shop's words, the comments carry the culture.
+
+the_trap_in_prices: |
+  Amsterdam sells fixed-price bags as often as fixed weights: a twelve-euro bag whose
+  gram weight varies by strain. Normalizing that into price-per-gram invents a number
+  nobody quoted. Units are as sold: gram | bag | piece | joint.
+
+the_constraint_nobody_models: |
+  AFFICHEREN IS FORBIDDEN. The A in the AHOJG-I gedoogcriteria bans advertising, which
+  is the reason menu data is scarce, why the archives are PHOTOGRAPHS of boards, and
+  why a slick price-comparison feed is a design question rather than a feature. Collect
+  freely, surface thoughtfully.
+
+files:
+  CARD.yml: "fields, the menu ontology, gedoogstatus, methods"
+  SKILL.md: "protocol: authoring a shop, projecting a menu, what not to publish"
+
+combines_with: [budtender, place, room, tour]
+k_lines: [COFFEESHOP, GEDOOGLIJST, AHOJG, MENU-ONTOLOGY, BUDTENDER, TENANCY]
+
+see_also:
+  repo: [../budtender/, ../place/, ../room/, ../../designs/korz/README.md]
+  web:
+    - "Gedooglijst Amsterdam — https://lokaleregelgeving.overheid.nl/CVDR756282/2"
+    - "Dutch drug policy — https://en.wikipedia.org/wiki/Drug_policy_of_the_Netherlands"

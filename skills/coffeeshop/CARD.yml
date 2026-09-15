@@ -1,0 +1,178 @@
+# CARD.yml — coffeeshop
+#
+# Read GLANCE.yml first. The one idea: every shop's menu is its own ontology, and
+# the schema's job is to hold that faithfully rather than to flatten it.
+
+card:
+  id: coffeeshop
+  name: "Coffeeshop"
+  type: [skill, business, place, cannabis]
+  emoji: 🌿
+  rarity: uncommon        # 167 tolerated addresses in Amsterdam, ~30% of the national total
+  description: |
+    A tolerated Dutch cannabis retailer. Inherits location and history from `place`,
+    interior and navigation from `room`, and adds the gedoogstatus, a polymorphic
+    menu, and the staff who read it to you.
+
+tools:
+  required: [read_file, write_file]
+  optional: [list_dir, web_search]
+
+tier: 2
+
+inherits: [room, place]
+
+fields:
+
+  # PERMISSION — the only thing this skill really owns
+  gedoog:
+    tolerated: bool                 # is this address on the current lijst
+    roster: "source id of the lijst that says so, with its validity date"
+    frozen: "the burgemeester freezes gedoogstatus during a closure order; a frozen address cannot transfer"
+    criteria: &ahojg
+      # AHOJG-I. Break one and the shop closes under art. 13b Opiumwet.
+      A: "geen affichering — no advertising"
+      H: "geen harddrugs"
+      O: "geen overlast"
+      J: "geen jeugdigen — nobody under 18, no sales to them"
+      G: "geen grote hoeveelheden — max 5 g per person per transaction, max 500 g stock"
+      I: "ingezetenen — residents only; NOT enforced in Amsterdam, which is why tourists are served"
+
+  status:
+    trading: "open | closed | temporarily_closed | unknown"
+    # A directory that renders 'Closed' because it is 3 a.m. is saying something
+    # completely different from a shop that has closed. Never let those share a field.
+    closed_because: "clock | order | business | unknown"
+    closure_date: date
+    closure_cause: |
+      Be specific, because the causes are not interchangeable and history gets
+      rewritten when they blur:
+        school-distance   — the 250 m afstandscriterium; this is what closed Mellow Yellow
+        project-1012      — the red-light-district reduction programme; this is what MOVED shops
+        13b-opiumwet      — closed by order after a criteria breach
+        business          — the owner stopped
+        redevelopment     — the building went
+
+  # MENU — the polymorphic heart. See SKILL.md for the full protocol.
+  menu:
+    photographed: "date of the board photo this was read from, if any"
+    board_order: "the shop's own category order, top of the board first"
+    axes: |
+      Which distinctions THIS shop thinks matter. Observed axes across Amsterdam:
+        form        wiet / hasj / voorgedraaid / edible / drank
+        lineage     indica / sativa / hybrid
+        origin      nederhasj / import / bio / outdoor
+        tier        house / top shelf / special
+        potency     THC and CBD percentages, when claimed
+      A shop that sorts only by form is telling you something about its clientele.
+      A shop that sorts by lineage is telling you something about its era.
+    categories:
+      # Keys are the shop's OWN slugs. Labels are VERBATIM, including capitals and
+      # Dutch spelling. Never translate a board.
+      "<shop-slug>":
+        label: "WIET"
+        projects_to: "flower"     # into the shared vocabulary below, for querying only
+        items:
+          - name: "as printed"
+            unit: "gram | bag | piece | joint"
+            price: "as quoted, in euro, for that unit"
+            weight_g: "only if the shop states it — a fixed-price bag often does not"
+            lineage: "only if the shop says so"
+            thc: "only if the shop claims it; a claim, not a measurement"
+            note: "YAML Jazz: the comment is where the flavour goes"
+
+  shared_vocabulary: &shared
+    # CLOSED, COARSE, AND UNAUTHORABLE. Exists so you can ask 'who sells hash' across
+    # 167 shops. Every local category projects INTO it; nothing is ever written directly
+    # here. Add a term only when a real shop cannot project into any existing one.
+    terms: [flower, hash, preroll, edible, drink, vape, seed, accessory, other]
+
+  amenities:
+    # Sparse and free-form on purpose. Absence means unknown, not false.
+    wifi: "claimed | verified | absent | unknown"
+    power_outlets: bool
+    laptop_welcome: "how the shop or a source describes lingering with a laptop"
+    tobacco_allowed: bool           # separate from vaping and from a smoking area
+    smoking_area: bool
+    seating: "chairs | benches | terrace | standing_only"
+    terrace: bool
+    pay_by_card: bool               # historically rare, increasingly common
+    dog_friendly: bool
+    accessible: "step-free entry, which in a canal house is worth recording"
+
+  vibe:
+    # Subjective, signed, and never averaged into a star rating. See SIGNED-ASSESSMENTS.md.
+    touristiness: "assessed, with whose assessment it is and on what evidence"
+    gezellig: "the untranslatable one; a signed opinion, not a metric"
+    local_reputation: "free text with a source"
+
+  staff:
+    # The people are characters, and the role already exists as a skill.
+    - { name: "if they told you", role: budtender, inherits: [budtender], met_on: date }
+
+methods:
+
+  READ-BOARD:
+    description: "Turn a photographed menu board into this shop's own taxonomy"
+    parameters: { photo: path, date: date }
+    effect: "Categories in the shop's words, board order preserved, projections proposed"
+    invoked-by: [surveyor, agent]
+    refuses: "Renaming a category into a tidier one. The board's words are the data."
+
+  PROJECT:
+    description: "Lift local categories into the shared vocabulary for cross-shop queries"
+    parameters: { category: "local slug" }
+    effect: "Returns a shared term, or flags that a new term is genuinely needed"
+
+  COMPARE:
+    description: "Answer a question across shops without pretending they agree"
+    parameters: { question: "e.g. who sells bio hash under 15 euro a gram" }
+    effect: "Uses projections to gather and the shops' OWN words to report"
+
+  ASK-BUDTENDER:
+    description: "Delegate to the budtender skill with this shop's menu in hand"
+    effect: "Recommendations grounded in THIS board, not in a generic strain database"
+
+  GEDOOG-CHECK:
+    description: "Compare a trading address against the current lijst"
+    effect: "tolerated | off-roster | probable-renumbering; never guesses a closure from absence"
+
+advertisements:
+  - { action: VISIT,        to: [rider, tourist, local], when: "open and within reach" }
+  - { action: READ-BOARD,   to: [surveyor],  when: "no menu recorded, or the photo is over a year old" }
+  - { action: ASK-BUDTENDER, to: [customer], when: "inside" }
+  - { action: EXPLAIN,      to: [anyone],    when: "always — the bare guard" }
+
+refuses:
+  - "Flattening a shop's categories into a house taxonomy"
+  - "Converting a fixed-price bag into a price per gram"
+  - "Translating a Dutch board into English in the data"
+  - "Reading 'closed' from a clock as a business closure"
+  - "Inferring a closure from absence on the roster without a look at the door"
+  - "Republishing somebody else's menu photographs as ours"
+  - "Rendering a real person as a character without a recorded, unexpired consent"
+  - "Assembling a budtender from reviews, photos or social media instead of asking them"
+  - "Attributing a generated recommendation to a named person or to the shop itself"
+
+# A SHOP IS A DIRECTORY, not a file. One record cannot hold photographs, a menu read
+# four times over four years, the objects on the shelves, and the people at the counter.
+layout:
+  PLACE.yml:      "the address — from the place skill in moollm"
+  ROOM.yml:       "the interior — from the room skill in moollm"
+  COFFEESHOP.yml: "the trade — this skill"
+  menu/:          "one file per board reading, dated. A time series, never overwritten."
+  survey/:        "photographs, tracks, notes. The evidence."
+  characters/:    "consent.yml gates everything here. robot.yml when nobody consented."
+  objects/:       "furniture, props, the cat, the board itself"
+
+plugins:
+  BUDTENDERS.md: |
+    Real people at the counter: consent tiers 0-4, expiry, recorded refusals, and the
+    generic robot that staffs the shop when nobody agreed. Ask them how they want to be
+    represented; tier 4 is they write it themselves. Graduation candidate for
+    skills/character/REAL-PEOPLE.md upstream.
+  GEOTOKING.md: |
+    What the robot sells you, and where you take it: inventory items keyed to a board
+    reading, spots (places with no address — Vondelpark benches), signed episodes, and
+    why your consumption log stays on your own device. Bongo Bingo, whose marks are now
+    your own geotagged photographs rather than Foursquare check-ins.
