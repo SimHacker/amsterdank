@@ -122,7 +122,24 @@ def dutch_title(street):
 
 
 def subject_id(street, number, suffix=""):
-    """Stable human-readable ID for an address. Suffix included, so it is unique."""
+    """Stable human-readable ID for an address. STREET AND NUMBER ONLY.
+
+    The huisletter is deliberately excluded, and `suffix` is accepted and ignored so that
+    callers can pass whatever their source gave them.
+
+    The roster writes 55 of its 167 addresses with a huisletter (OUDEBRUGSTEEG 27 H) and
+    almost nothing else does: not a shop sign, not a phone directory, not a visitor typing
+    an address into a comment box. Putting it in the key therefore split 44 shops into two
+    records apiece — the same door appearing once as `oudebrugsteeg-27h` from the roster and
+    once as `oudebrugsteeg-27` from everywhere else, each looking like a lonely orphan.
+    Matches against the 2011 evidence went from 149 to 105, and 44 shops turned into
+    phantom pairs of "new" and "gone".
+
+    Dropping it costs nothing measurable: across all 167 tolerated addresses, street plus
+    number is already unique, so there are ZERO collisions. If Amsterdam ever tolerates
+    two shops at the same number under different letters, this returns and the fix is a
+    disambiguating id plus a note; until then the letter lives in the `suffix` FIELD, where
+    it can be checked against the plate on the door.
+    """
     s = street_key(street).lower().replace(" ", "-")
-    n = str(number) + (suffix or "").lower()
-    return f"{s}-{n}".strip("-")
+    return f"{s}-{number}".strip("-")
