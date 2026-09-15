@@ -1,0 +1,44 @@
+# De Kroon II — the shop facing the 420 Café across the alley.
+# Here because a 2011 commenter documented the pair as a choice: he compared them, a few
+# steps apart, and the cat was his deciding factor.
+
+inherits: [coffeeshop, room, place]
+
+id: oudebrugsteeg-26
+
+address:
+  street: Oudebrugsteeg
+  number: 26
+  postcode: 1012JP
+  city: Amsterdam
+  country: NL
+  tz: Europe/Amsterdam
+
+gedoog:
+  tolerated: true
+  roster: gedooglijst-2026-03-05
+  valid_from: 2026-03-05
+  source: "https://lokaleregelgeving.overheid.nl/CVDR756282/2"
+  no_suffix: true                    # 27 carries an H; 26 does not
+
+coordinates:
+  claims: []                         # none yet. Not photographed, not geocoded, not surveyed.
+
+across_the_alley_from: ../oudebrugsteeg-27
+# "a few steps away" per a 2011 commenter, which matches 26 facing 27 in a passage this narrow.
+
+names:
+  current: "De Kroon II"
+  # The II implies a De Kroon I somewhere. Unresolved.
+  review_reason: sibling-shop-unresolved
+
+review:
+  priority: medium
+  reasons: [no-coordinate, never-surveyed, name-unverified, sibling-shop-unresolved]
+  one_look_settles: "the sign, the door number, and whether it is still trading"
+
+tenancies:
+  - who: "De Kroon II"
+    from: "before 2011-11-11"        # earliest comment naming it
+    until: null
+    evidence: [amsterdank-nl-2013, gedooglijst-2026-03-05]

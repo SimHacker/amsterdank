@@ -15,6 +15,13 @@ data/claims-cannamaps.csv
 # non-redistributable sources are either cleared or excluded from the build.
 data/register.csv
 
+# The 2013 Wayback harvest, parsed. Don's own fields in here are his to publish, but each
+# record also carries 150 visitor comments written by other people, 175 Foursquare mayors
+# (real names, no agreement to be in a dataset) and the quarantined 2011 geocoding, all in
+# one blob. Committing it would publish by accident exactly what sources.yml quarantines by
+# intent. Regenerate with scripts/harvest_wayback.py; extract per field, never wholesale.
+data/wayback-2013.json
+
 # OSM cache. ODbL and share-alike, so it is fetched rather than vendored, and
 # never merged into the canonical YAML. See LICENSE-DATA section 4.
 data/osm/

@@ -1,0 +1,50 @@
+# The gate. No entry here, no character rendered. This file is the control panel, which is
+# the point: whether a person may be portrayed is a readable fact on disk rather than a
+# promise in a policy. See moollm designs/INTERFACE-TO-AGENCY.md.
+#
+# Base law: https://github.com/SimHacker/moollm/tree/main/skills/representation-ethics
+# Protocol: ../../../skills/coffeeshop/BUDTENDERS.md
+
+absent_consent: robot          # the only permitted fallback for a living person
+
+living:
+  # Nobody at this shop has been asked yet. That is a task, not a gap in the schema.
+  asked: []
+  status: unasked
+  review_reason: staff-unasked
+  next_visit_script: |
+    After buying something, not instead of it: "I'm making a guide to Amsterdam
+    coffeeshops -- own photos, no advertising, free. Would you want to be in it, and
+    how? I can leave you out, use just a first name, or you can write your own bit."
+  also_ask:
+    - "the cat's name, and whether the cat is still the same cat"
+    - "which seat was John Sinclair's"
+    - "whether photographing the board is alright"
+
+deceased:
+  - who: john-sinclair
+    record: ../memorial/john-sinclair.yml
+    # The dead cannot consent, so consent is not the instrument. The standard is:
+    # documented public record only, no fabricated quotes, no first-person voice,
+    # memorial register, and the family's word above ours.
+    speaks: false
+    narrated_by: the-cat        # the buffer. A fictional witness, third person only.
+    family_contacted: false
+    review_reason: family-uncontacted
+    standing_offer: "his family and the John Sinclair Foundation can change or remove
+                     anything here by asking, without argument"
+
+fictional:
+  - who: the-cat
+    file: the-cat.yml
+    # A cat is not a person and needs no consent, but it is declared here anyway so that
+    # this file remains the single answer to 'who may speak in this room, and on what basis'.
+    is_a_person: false
+    based_on: "a real cat, if there is still one — unsurveyed"
+    bounded_by: ../memorial/john-sinclair.yml
+    may_not: "speak as any real person, living or dead"
+
+  - who: robot
+    file: robot.yml             # to be written when a board has actually been read
+    status: pending
+    blocked_on: "no menu/ yet — nobody has photographed the board"

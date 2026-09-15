@@ -1,0 +1,184 @@
+# Facts extracted from the 150 visitor comments on amsterdank.nl (2009-2013).
+#
+# Our words, not theirs: facts travel, sentences do not, commenters are never named.
+# Dates matter -- a 2010 fact and a 2013 fact are different facts. Opinions are kept only
+# where the opinion IS the fact (a rule about laptops, a warning about the cat).
+#
+# Keyed by subject id, so these fold into places/<id>/ as those get built.
+# ~20 comments from Dec 2011 are SEO spam with deliberate typos. Ignored, not recorded.
+
+source: amsterdank-nl-2013
+extracted: 2026-09-15
+policy: "facts yes, expression no, identities never"
+
+oudebrugsteeg-27:            # 420 Café
+  volcano: "a Volcano vaporizer for customers"        # 2011
+  laundromat: "a laundromat nearby"                   # 2011
+  cat: "present"                                      # 2011, from the shop across the alley
+  cat_etiquette: "act disgusted when the cat touches you and your service suffers"
+  chair: "readers knew the chair etiquette well enough to joke about it"   # 2012
+
+oudebrugsteeg-26:            # De Kroon II
+  across_the_alley_from: oudebrugsteeg-27             # "a few steps away", 2011
+  couches: "comfortable"
+  cats: none                                          # 2011, stated as a virtue
+  near: "'the Pig' — across the street"               # a hostel, 2011
+
+oudebrugsteeg-4:             # Speak Easy — third shop on the same alley
+  size: small
+  reputation: "regulars rate the quality; said not to fob off tourists"   # 2010
+
+2e-laurierdwarsstraat-44:    # Sanementereng — trading as Coffeeshop Mr.K by 2026
+  form: "junk shop and coffeeshop in one"             # 2010
+  cat: "a very old cat, kept the place free of rats"  # 2010 — a working animal
+  run_by: "a woman, unnamed"                          # no character, no consent
+  decor: "dense, inside and out; things hanging everywhere"
+  hazard: "easy to knock something over; watch where you walk and how fast you turn"
+  crowd: "old-timers and locals rather than tourists"
+  # One 2010 comment is anti-tourist and contains a slur. Facts taken, text left behind.
+
+kloveniersburgwal-62:        # Basjoe
+  cigarette_machine: true                             # 2011
+  seating: "rarely any"                               # 2011
+  staff: "one older man friendly, younger staff less so"   # 2011, one visitor's read
+  menu_online: "coffeeshopmenus.org carried its menu"  # 2011 — see sources.yml
+
+kloveniersburgwal-60:        # Bagheera
+  smoking_room: "medium, usually a free seat"          # 2011
+
+kolksteeg-10:                # Ben
+  fish_tank: true                                     # 2009
+  stuffed_animals: true                                # 2009
+  hash: "well regarded"                                # 2011
+
+oude-leliestraat-2:          # Grey Area
+  music: "Meat Puppets, Sham 69, Ramones, Iggy Pop"   # 2009 — a real playlist reading
+  owners: "American"
+  size: "very small, effectively no seating"
+  custom: "an eighth was the size to ask for"          # 2009
+
+reguliersdwarsstraat-29:     # Betty Too
+  movie_night: "Wednesdays from 20:00, mostly Japanese films"   # 2010
+  entry: "free, but a drink was required"
+  drinks_from: "€2 for a large tea"
+  wifi: "free, two hours a day"
+
+haarlemmerstraat-34:         # La Grotte
+  opens: "11:00 or noon"                               # 2010
+  food: "international breakfasts; a full kitchen"
+  beer: true
+  smoking_while_eating: allowed
+  seating: "window seats upstairs and down"
+
+binnen-oranjestraat-9:       # Relax
+  wifi: free                                           # 2013
+  price: "cheaper than the nearby chains"
+  nearby_food: "Small World, across the street"
+
+spuistraat-260:              # New Times
+  accessibility: "staff described as attentive to disabled guests"  # 2011 — rare in this corpus
+  strain: "super lemon haze"
+
+spuistraat-222:              # Softland 1
+  computers: "six browsing terminals"                  # 2009
+  wifi: false                                          # 2009 — terminals instead
+
+herengracht-287:             # Magic
+  size: tiny                                           # 2010
+  internet: free
+
+gerard-doustraat-188:        # Roxy
+  laptops: forbidden                                   # 2010, unposted but enforced
+  # Recorded because it is a house rule and Don works in coffeeshops on a laptop.
+  # The rest of that comment is a furious character assessment of the staff. Not ours.
+
+vijzelgracht-33:             # Mellow Yellow
+  claim: "advertised itself as Amsterdam's first coffeeshop"   # 2010, their claim
+  pool_table: "downstairs"
+
+brouwersgracht-137:          # Coffeeshop 137
+  local_name: "the Sturgis"                            # 2010
+  stock: "five or six hashes, five or six weeds"
+  crowd: "few tourists"
+
+haarlemmerstraat-44:         # De Dampkring 2
+  stock: "about ten hashes and twenty weeds"           # 2009
+
+handboogstraat-29:           # De Dampkring 1
+  stock: "around forty varieties"                      # 2010
+
+nieuwendijk-89:              # Blues Brothers
+  pool_table: true                                     # 2010
+  seating: plenty
+  near: "'the Pig', immediately outside"               # 2011
+
+oudezijds-voorburgwal-90:    # The Bulldog
+  opens_early: "found open before 7am on several mornings"   # 2011
+
+haarlemmerstraat-63:         # Popeye
+  hookah: "free hits with a purchase"                  # 2011
+
+haarlemmerstraat-102:        # Barney's
+  strains: "G-13, LSD, Pineapple Chunk"                # 2010-2011
+  seating: "crowded, oriented to smoking rather than lounging"
+
+reguliersgracht-27:          # Barney's Lounge
+  volcanoes: "several"                                 # 2011
+  disambiguation: "the Barney's CAFÉ is not a coffeeshop — smoking allowed, no sales"
+  # Worth keeping: a visitor lost an afternoon and five euros to that confusion.
+
+woestduinstraat-76:          # Bullwacki
+  hash: "broad selection; 'kussentjes' recommended"    # 2010
+
+zieseniskade-22:             # The Noon
+  price: "5g for €20, power plant"                     # 2011-11
+
+baarsjesweg-239:             # Boere Jongens
+  same_owner_as: bonairestraat-78                      # 2010 — an ownership link
+  scale_visible: "a screen shows the weight as it is served"
+  strains: "white choco, vanille haze"
+  complaint: "two 2010 comments allege short weight. Unverified allegation, recorded as
+              disputed, not as fact. Two independent complainants is why it is here at all."
+
+sarphatistraat-87:           # Trinity
+  pool_table: true                                     # 2010
+
+heisteeg-6:                  # De Tweede Kamer
+  decor: "photographs of the Dutch royal family behind the counter; a converted pub"  # 2010
+
+vechtstraat-63:              # Topweazle
+  football: "Ajax matches shown on video"              # 2009
+  regulars: "a local crowd, welcoming to visitors"
+
+zeeburgerdijk-33:            # Trefpunt
+  near: "StayOkay hostel"                              # 2012
+
+jonge-roelensteeg-12:        # Abraxas
+  interior: "Aladdin's-lamp styling; room for a group"  # 2010
+  music: electronic
+  brownies: "well regarded"                            # 2011
+
+oudezijds-voorburgwal-191:   # Greenhouse Centrum
+  strains: "award winners; super lemon haze named"     # 2009
+
+warmoesstraat-64:            # Baba
+  vaporizers: many                                     # 2010
+
+marnixstraat-194:            # 1e Hulp
+  price: "notably cheap"                               # 2010-2011
+
+rozengracht-1a:              # African Black Star
+  potency: "sought out for strength"                   # 2011
+
+sint-antoniesbreestraat-71:  # The Bluebird
+  staff: "helpful; Don worked on his laptop here"      # 2010 comment + Don's own account
+
+patterns_across_the_corpus:
+  the_pig: "a hostel referenced by three separate commenters as their base — De Kroon II
+            across the street, Blues Brothers outside the door, the Bulldog a walk away.
+            Useful geography: it explains which shops tourists reached first."
+  menu_links: "two commenters linked coffeeshopmenus.org pages, which is how that source
+               entered this project's ancestry."
+  seating_matters: "the most common concrete complaint across 150 comments is nowhere to sit.
+                    Worth a field. Amsterdam coffeeshops are frequently standing-room."
+  spam: "~20 comments from Dec 2011 are SEO spam with deliberately misspelled flattery."

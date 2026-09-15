@@ -1,0 +1,54 @@
+# Sanementereng — a junk shop and a coffeeshop in the same room, in the Jordaan.
+# Here for the cat: a very old one that earned its keep on rats.
+
+inherits: [coffeeshop, room, place]
+
+id: 2e-laurierdwarsstraat-44
+
+address:
+  street: 2e Laurierdwarsstraat      # the roster writes TWEEDE LAURIERDWARSSTRAAT
+  number: 44
+  suffix: H
+  postcode: 1016RB
+  city: Amsterdam
+  country: NL
+  tz: Europe/Amsterdam
+  # Four spellings of the ordinal all normalize to this id — see scripts/addr.py.
+
+gedoog:
+  tolerated: true
+  roster: gedooglijst-2026-03-05
+  valid_from: 2026-03-05
+  source: "https://lokaleregelgeving.overheid.nl/CVDR756282/2"
+
+coordinates:
+  claims: []                         # never surveyed
+
+names:
+  current: "Coffeeshop Mr.K"         # Don, 2026-09-15
+  historic: ["Sanementereng"]
+  sort_name: "Mr.K, Coffeeshop"
+  # Punctuation as Don wrote it. Read it off the sign before normalizing the dot or spacing.
+
+review:
+  priority: medium
+  reasons:
+    - no-coordinate
+    - never-surveyed
+    - rename-undated              # when Sanementereng became Mr.K is unknown
+    - same-business-or-new         # a new name can be a repaint or a whole new operator
+    - cat-status-unknown
+    - junk-status-unknown          # the collection was the room. Did it leave with the name?
+  one_look_settles: "the sign, whether the junk is still there, and whether there is a cat"
+  # The 2010 cat was described as already very old. Sixteen years on it will be a different
+  # animal or none. Do not carry the old one forward as present.
+
+tenancies:
+  - who: "Sanementereng"
+    from: "before 2010-02-10"
+    until: "unknown — before 2026"
+    evidence: [amsterdank-nl-2013]
+  - who: "Coffeeshop Mr.K"
+    from: unknown
+    until: null
+    evidence: [dons-testimony-2026, gedooglijst-2026-03-05]

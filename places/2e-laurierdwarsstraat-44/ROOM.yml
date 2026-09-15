@@ -1,0 +1,45 @@
+# The room at 2e Laurierdwarsstraat 44, trading as Coffeeshop Mr.K since some unrecorded date.
+# EVERYTHING BELOW DESCRIBES THE SANEMENTERENG ERA, from two 2010 visitor comments, in our
+# words. A room that changed its name may have changed everything else too, so none of it is
+# asserted as current. It is what was there, not what is there.
+
+inherits: [room, place]
+place: PLACE.yml
+
+name: "Coffeeshop Mr.K"
+formerly: "Sanementereng"
+enter_from: 2e Laurierdwarsstraat
+observed: never
+described_era: 2010
+
+contents:
+  - id: the-junk
+    what: "the collection — things hanging from everything, inside and out"
+    source: amsterdank-nl-2013                # 2010
+    navigability: "tight. A visitor warned about how fast you turn."
+
+  - id: the-old-cat
+    what: "a very old cat"
+    job: "kept the place free of rats"        # a working animal, not an amenity
+    source: amsterdank-nl-2013                # 2010
+    present_now: unknown                      # sixteen years. Assume not, ask.
+    review_reason: cat-status-unknown
+
+staff:
+  - who: "the woman who runs it"
+    named: false                              # a commenter mentioned her; we did not ask her
+    character: none                           # no portrayal without consent — the robot rule
+    described_as: "friendly"                  # 2010, one visitor
+
+from_visitor_comments:
+  form: "junk shop and coffeeshop at once"    # 2010
+  crowd: "old-timers and locals"
+  weed: "not the draw"                        # 2010 — the room is
+  accessibility: "cluttered enough to be a hazard; step carefully"
+  # One 2010 comment is anti-tourist and contains a slur. Facts kept, sentences left behind.
+
+unknown:
+  - hours: unrecorded
+  - music: unrecorded
+  - still_a_junk_shop: "the whole question. If the junk went, this is a different room at the
+      same address, and the 2010 record becomes history rather than description."

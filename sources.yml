@@ -99,3 +99,118 @@ sources:
     osm_ok: false
     reason_not_ok: "Memory is a lead, not a survey. Promote to field-survey or a citation before it counts."
     note: "Where the horse-crane story and 'that place by the Vondelkerk' live until they are confirmed."
+
+  photos-2009:
+    name: "Don's October 2009 photo survey (iPhone 3GS, 225 shots)"
+    kind: own
+    license: "CC-BY-4.0 for the images; the readings off them are CC0"
+    osm_ok: true
+    authority: "Own camera, own hand, own GPS. EXIF carries position, GPSImgDirection (camera bearing) and GPSDOP."
+    caveat: "Seventeen years stale. Excellent for WHICH BUILDING, worthless for what is open today."
+    imported_by: scripts/import_2009.py
+
+  placesdata-2011:
+    name: "PlacesData.csv from the old Coffeeshops trunk (56 columns, 228 places)"
+    kind: mixed
+    license: "Don's own field notes, but every row also carries a GooglePlacePage"
+    osm_ok: false
+    reason_not_ok: "Provenance cannot be untangled per cell after this long. The coordinates in particular were geocoded next to a Google Place page."
+    note: "Four-row metadata preamble: machine names, descriptions, types, display roles, labels. A self-documenting schema in a format with no comments."
+
+  amsterdank-nl-2013:
+    name: "amsterdank.nl, recovered from the Internet Archive (crawl 2013-07-28)"
+    kind: mixed
+    license: "Don's own site and his own observations; see the split below"
+    osm_ok: partial
+    recovered_by: scripts/harvest_wayback.py
+    url_shape: "http://amsterdank.nl/index/Coffeeshop_<N>, where N is the Identifier column in PlacesData.csv"
+    why_it_matters: |
+      The CSV export is dated 2011-07-18 and this crawl is 2013-07-28. Two years of edits
+      happened in the live TurboGears database in between and never went back into the
+      spreadsheet, so these 225 pages are the ONLY surviving copy of the qualitative fields:
+      music, seating, animals, wifi, power, Cannabis Cup entries. The John Sinclair Chair
+      is recorded nowhere else on Earth.
+    harvest_complete: 2026-09-15
+    coverage_measured:
+      # Counted from all 225 records rather than estimated, because a source entry that
+      # overstates its own richness sends somebody looking for data that is not there.
+      records: 225
+      probe_confirmed_the_end: |
+        Identifiers 226-240 return nothing, and the site's own index page says "225 Amsterdam
+        Coffeeshops". The corpus is complete, not truncated — a gap that starts exactly at 226
+        and runs to the end of the probe range is the shape of a finished list.
+      on_every_page: [Address, Area]                     # 225 / 225
+      phone: 219
+      ours_to_publish_at_all: "76 of 225 shops carry at least one field that is Don's own"
+      experiential_fields: "39 of 225 — the fields that describe being in the room"
+      per_field:
+        # THIN. He typed these in shop by shop and mostly did not get round to it.
+        Recommended: 82
+        Web Site: 33
+        Cannabis Cup Participant: 30
+        Cannibis Cup Marijuana Entry: 24
+        Wireless Internet: 17
+        Cannibis Cup Hash Entry: 16
+        Games: 12
+        Bathrooms: 10
+        Electrical Power: 9
+        Tobacco: 8
+        Also Known As: 7
+        Animals: 5
+        Awards: 5
+        Music: 4
+        Decoration: 4
+        Opening Hours: 4
+        Food and Drink: 3
+        Seating: 2
+      what_this_means_for_420: |
+        Oudebrugsteeg 27 is one of only TWO shops in the corpus with a Seating field, and one
+        of four with Music. The John Sinclair Chair did not merely survive by luck; it survived
+        in one of the two places where that particular sentence could have been written at all.
+      quarantined_volume: "150 visitor comments across 86 shops, plus 175 Foursquare mayors,
+                           131 venue photo counts and 18 tip blocks. None of it ours."
+    ours:
+      # Don's own field observations, typed by him into his own site. Clean.
+      fields: [Music, Seating, Animals, Wireless Internet, Electrical Power, Bathrooms, Decoration, Games, Tobacco, Food and Drink, Opening Hours, Awards, Also Known As, Web Site, Recommended, Cannabis Cup fields]
+      osm_ok: true
+      caveat: "Thirteen years stale. Every value is a claim about 2013, not about today."
+      note: "Description was in the earlier guess at this list and is not a field on these pages.
+             The label set above is measured from the corpus."
+    not_ours:
+      # QUARANTINE. Third parties wrote these; they came in through APIs that expired a decade ago.
+      foursquare_tips: "written by Foursquare users. Not ours to republish. Read for leads only."
+      foursquare_mayors: "other people's names. Do not publish; they did not agree to be in a dataset."
+      foursquare_photos: "hosted on 4sqi.net, taken by users. Never copy."
+      site_comments: "written by visitors to Don's site in 2010-2013. His users' words, not his. Attribution unresolved; keep out of published data."
+      coordinates: "the quarantined 2011 geocoding. Same rule as placesdata-2011."
+      osm_ok: false
+
+  dons-testimony-2026:
+    name: "Don's own account, written 2026"
+    kind: own
+    license: "CC-BY-4.0 as prose; the facts in it are CC0"
+    osm_ok: true
+    note: "First-hand and unverifiable by a stranger, which is why it is signed and dated rather than merged into cited facts. Where the Zappa poster, the cat treats, the bar sign, and the NY Diesel live."
+
+  dons-email-2010:
+    name: "Don's own private correspondence, August–September 2010"
+    kind: own
+    license: "CC-BY-4.0 as prose; the facts in it are CC0"
+    osm_ok: false
+    reason_not_ok: "Sixteen years old and never a survey. Good for what was true in 2010, useless as a position fix."
+    what_it_is: |
+      Don arranging to meet a visiting friend at the 420 Café, and describing the place in order
+      to sell it. Advocacy prose written to a friend turns out to be an excellent source: he had
+      no reason to be careful and every reason to be specific.
+    quoted_here: "Don's own sentences only. His correspondent's replies are not published, and
+                  the phone numbers in the thread are not recorded anywhere."
+    why_it_outranks_the_2013_page: |
+      Dated 2010-09-14, three years before the Wayback crawl, and it explains what the 2013 page
+      only implies: the chair was "reserved for and named after him". It also has Don SEEING
+      Sinclair in it, and puts the radio show inside the room in the present tense.
+    private_original: "SimHacker/DonHopkins (private) — filed under the correspondent, thread 'amsterdam-visit-2010'"
+    # The path itself is withheld, because a path with a person's name in it names the person.
+    # A withholding undone by its own citation is not a withholding.
+    # The correspondent is withheld on purpose. He is a public figure and the meeting was
+    # innocuous, but a coffeeshop dataset has no need for a third party's 2010 travel plans,
+    # and the full chain is one private file away for anyone entitled to follow it.

@@ -1,0 +1,28 @@
+# Interior of De Kroon II. Everything here comes from two 2011 visitor comments,
+# in our words. Never surveyed by us.
+
+inherits: [room, place]
+place: PLACE.yml
+
+name: "De Kroon II"
+enter_from: Oudebrugsteeg
+observed: never
+
+contents:
+  - id: the-couches
+    what: "couches"
+    comfort: "singled out by a visitor"      # 2011
+    source: amsterdank-nl-2013
+
+from_visitor_comments:
+  cats: none                                 # 2011, and the commenter meant it as praise
+  # The only recorded anti-cat position in the register. Worth keeping: some people want a
+  # room without an animal in it, which is an accessibility fact as much as a taste.
+  quality: "well regarded, and remembered fondly a year later"   # 2011
+  near: "'the Pig' — across the street"      # hostel, 2011
+
+unknown:
+  - seating_count: "how many of those couches"
+  - music: unrecorded
+  - hours: unrecorded
+  - still_trading: "on the 2026 roster, but nobody has looked"

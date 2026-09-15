@@ -1,0 +1,75 @@
+# The 420 Café, and the first fully furnished place in this register.
+# Chosen because the ethics get tested here rather than in a simple case:
+# a living business, a dead poet, and a cat.
+
+inherits: [coffeeshop, room, place]   # left to right; coffeeshop wins conflicts
+
+id: oudebrugsteeg-27
+
+address:
+  street: Oudebrugsteeg              # a steeg is an alley: two doors and a gutter wide
+  number: 27
+  suffix: H                          # the roster's huisletter; the door may disagree, unchecked
+  postcode: 1012JN
+  city: Amsterdam
+  country: NL
+  tz: Europe/Amsterdam
+
+gedoog:
+  tolerated: true
+  roster: gedooglijst-2026-03-05
+  valid_from: 2026-03-05
+  source: "https://lokaleregelgeving.overheid.nl/CVDR756282/2"
+  # Number 26 across the alley is ALSO tolerated. Two shops facing each other in a
+  # passage this narrow is a fact about 1012JN, not a data error.
+  neighbour_on_roster: OUDEBRUGSTEEG 26
+
+coordinates:
+  # Never averaged. The mean of two buildings is a canal, and in this alley the mean
+  # of two candidate doors is the middle of the passage.
+  preferred: { lat: 52.3755, lng: 4.8970, source: photos-2009 }
+  spread_m: 27                       # the two claims disagree by half an alley
+  claims:
+    - lat: 52.3755
+      lng: 4.8970
+      source: photos-2009            # own camera, own GPS. The only OSM-eligible fix here.
+      observed: 2009-10-04
+      note: "iPhone 3GS, camera bearing 78.9 deg true — shopfront lies east of the fix"
+    - lat: 52.375824
+      lng: 4.895827
+      source: placesdata-2011
+      observed: 2011-07-18
+      note: "geocoded next to a GooglePlacePage. Quarantined: never eligible for OSM."
+
+survey:
+  - visited: 2009-10-04
+    by: don
+    key_photo: PicturesOriginal/IMG_0043.JPG    # in the old Coffeeshops trunk, not vendored
+    open_at_visit: true
+    coordinate: { lat: 52.3755, lng: 4.8970, heading: 78.9, extractor: PIL-exif }
+    note: "13:14 on a Sunday. Seventeen years later the address is still on the roster."
+
+review:
+  priority: high
+  reasons:
+    - number-unverified        # roster says 27 H; nobody has photographed the plate
+    - coord-conflict           # 27 m apart, and the alley is narrower than that
+    - no-osm-link              # not yet reconciled against an OSM node
+    - stale-everything         # newest evidence here is from 2009
+    - seat-unlocated           # see memorial/john-sinclair.yml — Don knows which seat, the file does not
+  one_look_settles: "the plate on the door, the cat's name, and which seat was his"
+
+names:
+  current: "420 Café"
+  also_known_as: ["De Kuil"]         # 'the pit', and the older name locals still use
+  # Both from the 2011 sheet, confidence 0.7 and 0.6. Neither has been read off the
+  # sign since 2009. The sign is the authority on the name; the roster is not.
+
+tenancies:
+  - who: "420 Café"
+    from: "before 2009-10-04"        # the photograph proves presence, not a start date
+    until: null
+    evidence: [photos-2009, gedooglijst-2026-03-05]
+
+memorial: memorial/john-sinclair.yml
+characters: characters/            # consent.yml gates everything in there

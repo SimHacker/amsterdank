@@ -1,0 +1,102 @@
+# The interior. Sparse on purpose: almost nothing here has been observed since 2009, and
+# an absent key means nobody has checked rather than false.
+#
+# The room exists as a file mainly so the seat can exist as an object. A memorial with no
+# location is a paragraph; a memorial attached to a chair is somewhere you can stand.
+
+inherits: [room, place]
+place: ../PLACE.yml
+
+name: "420 Café"
+enter_from: Oudebrugsteeg      # an alley off the Damrak end, narrow enough to miss
+observed: 2009-10-04           # the only survey. Everything below is that stale.
+
+contents:
+
+  - id: sinclairs-seat
+    what: "The John Sinclair Chair"
+    located: true
+    memorial: ../memorial/john-sinclair.yml
+    quote: "The John Sinclair Chair is the most comfortable, but if he's there, you should let him sit in it."
+    source: amsterdank-nl-2013     # Don's own site, Wayback crawl 2013-07-28
+    reserved_for_him: true
+    reserved_source: dons-email-2010   # "reserved for and named after him", 2010-09-14
+    seen_occupied: "by Don, some date before 2010-09-14, with Sinclair in it"
+    still_there: unknown           # sixteen years later. The one thing worth checking first.
+    review_reason: seat-still-there
+    the_cat_sits_here: true        # per ../characters/the-cat.yml
+
+  - id: zappa-poster
+    what: "Frank Zappa poster"
+    source: dons-testimony-2026    # named in Don's email of 2026-08-19
+    corroborates: "the 2013 Music field: 'Classic Rock. Frequent Frank Zappa.'"
+    located: false                 # which wall, unrecorded. Photograph it.
+
+  - id: the-bar
+    what: "the bar"
+    source: dons-testimony-2026
+
+  - id: the-sign
+    what: "a sign on the bar"
+    on: the-bar
+    text: "Please Do Not Give Drugs To Our Cat"
+    verbatim: true                  # capitals as seen. Don't sentence-case it, don't translate it.
+    source: dons-testimony-2026
+    house_rule: ../characters/the-cat.yml
+    photograph: false               # WANTED. This one goes in the README.
+    review_reason: sign-unphotographed
+
+  - id: the-cat
+    what: "the resident cat"
+    character: ../characters/the-cat.yml
+    present_at: [2009, 2011, 2013, 2026]   # 2011 from a neighbour-shop commenter
+    protected_by: the-sign
+    review_reason: cat-unnamed      # seventeen years is two or three cats
+    dons_practice: "brings it treats"
+
+  - id: the-board
+    what: "the menu board"
+    read: false                    # no menu/ yet, which is why there is no robot
+    review_reason: board-unread
+    known_to_carry: [new-york-diesel]   # Don's standing order. See ../../../strains/
+    cannabis_cup_entry_2013: "420 Haze"  # from the 2013 page
+
+amenities:
+  # Recovered from Don's own 2013 site. His own observations, so ours to publish,
+  # but THIRTEEN YEARS STALE -- every one of these is a claim about 2013.
+  music:
+    value: "Classic Rock. Frequent Frank Zappa. Occasional Ironic MMMMMMBop."
+    source: [amsterdank-nl-2013, dons-testimony-2026]   # the MMMBop line is Don's, 2026
+    attested: [2010, 2013, 2026]
+    # Which MMMBop recording is unknown; may be one of the ironic covers. Don will ask.
+  wifi:
+    value: "Free wireless from next door if you sit up front."
+    source: amsterdank-nl-2013
+    # Kept verbatim because the honesty is the information. A normalized
+    # `wifi: true` would be a lie about a borrowed signal at the front table.
+  power:
+    value: "Yes."
+    source: amsterdank-nl-2013
+    corroborated: dons-testimony-2026    # "lots of electrical plugs"
+  bathroom:
+    value: "clean"
+    source: dons-testimony-2026
+  animals:
+    value: "Cat."
+    source: amsterdank-nl-2013
+
+from_visitor_comments:
+  # Facts from 2013 site comments, in our words, commenters unnamed. Dates kept because a
+  # 2011 fact and a 2013 fact are different facts.
+  - volcano: "a Volcano vaporizer for customers to use"                        # 2011-11-12
+  - laundromat: "a laundromat nearby — the street's, not the shop's"           # 2011-11-12
+  - chair_known_to_readers: "a commenter riffed on the chair etiquette"        # 2012-01-26
+  - cat_here_in_2011: "a cat, per a commenter on ../oudebrugsteeg-26 across the alley"
+  - cat_outranks_you: "acting disgusted when the cat touches you costs you service"
+
+unknown:
+  # Named absences, so a future survey has a list instead of an impression.
+  - sun: "which seats get it, and until when"
+  - tobacco: "inside, outside, or partitioned"
+  - stairs: "a 1012 alley building probably has a step at the door; disabled access unrecorded"
+  - seating_beyond_the_chair: "how much, what kind, whether a laptop is plausible"

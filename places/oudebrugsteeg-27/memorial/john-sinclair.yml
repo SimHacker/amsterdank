@@ -1,0 +1,124 @@
+# John Sinclair (1941-2024), house poet.
+#
+# This file is ABOUT him. It never speaks AS him. He cannot consent, so the standard is
+# the deceased rung of the consent hierarchy in representation-ethics: documented public
+# record, no fabricated quotes, a memorial register rather than a puppet, his own venues
+# linked so the primary source is one click away, and his family's word above ours.
+#
+#   https://github.com/SimHacker/moollm/tree/main/skills/representation-ethics
+#
+# The stories reach a listener through the cat, not through him. See ../characters/the-cat.yml
+# for why that indirection is the ethical mechanism and not a whimsical framing device.
+
+inherits: [memorial, real-being]
+subject: John Sinclair
+lived: 1941 - 2024-04-02
+speaks: false                    # HARD. No first-person Sinclair anywhere in this repo.
+puppet: false
+role_here: "house poet at the 420 Café"
+role_here_detail:
+  # Upgraded from "hung out here" by Don's 2010 email, which puts the work in the room.
+  quote: "John Sinclair often hangs out there and does his Internet radio show."
+  source: dons-email-2010
+  date: 2010-09-14
+  tense: present            # said while it was happening. Not reconstructed afterwards.
+  reading: |
+    The room was a studio, not just a haunt. Radio Free Amsterdam was made partly from this
+    address, which is why the chair is a workplace object and not only a memorial one.
+    Testimony rather than citation: no broadcast log has been checked against it, and the
+    1055 episodes span twenty years and at least two cities.
+  review_reason: broadcast-location-uncorroborated
+
+links:
+  radio_free_amsterdam: "https://radiofreeamsterdam.org"   # his own voice, in his own venue
+  wikipedia: "https://en.wikipedia.org/wiki/John_Sinclair_(poet)"
+  # Prefer sending people to his broadcasts over paraphrasing him. He made 1055 episodes;
+  # nothing written here competes with two minutes of him talking.
+
+documented:
+  # Cited facts only. Each one is checkable by a stranger, which is the test.
+  - fact: "Manager of the MC5 and chairman of the White Panther Party in Detroit and Ann Arbor."
+    source: [nytimes-2024-04-04, freep-2024-04-02]
+  - fact: "Sentenced in 1969 to 9.5-10 years for giving two joints to undercover officers,
+           by Judge Robert Colombo of Detroit Recorder's Court. Served 29 months."
+    source: [ap-2024]
+  - fact: "The John Sinclair Freedom Rally, Crisler Arena, Ann Arbor, December 1971:
+           15,000 people, a ten-hour show. John Lennon, Yoko Ono, Stevie Wonder, Bob Seger,
+           Phil Ochs. Jerry Rubin talked Lennon into coming."
+    source: [ap-2024, freep-2024-04-02, rbma-2014]
+  - fact: "Lennon wrote the song 'John Sinclair' at 3 a.m. and performed it at the rally.
+           Sinclair was released three days later; the conviction was overturned in 1972."
+    source: [freep-2024-04-02, rbma-2014]
+    # In Sinclair's own account the song mattered less than the appearance: the state
+    # legislature had to reckon with the fact that Lennon was showing up. Quote the LINE,
+    # never the lyric — the song is Lennon's copyright, and a link is free.
+  - fact: "Wrote 'Guitar Army' (1972). Led the long campaign to legalize marijuana in Michigan."
+    source: [nytimes-2024-04-04]
+  - fact: "Moved to Amsterdam and ran Radio Free Amsterdam, hosting and producing the
+           John Sinclair Radio Show through episode 1055, recorded in Paris, February 2024,
+           weeks before his death."
+    source: [radiofreeamsterdam-1055]
+  - fact: "Died 2 April 2024 at Detroit Receiving Hospital, of congestive heart failure, aged 82."
+    source: [ap-2024, freep-2024-04-02]
+
+dons_testimony:
+  # Don's own first-hand knowledge, marked as testimony because that is what it is:
+  # unverifiable by a stranger, signed by the person who was there, and worth more than
+  # the citations above precisely because no archive has it. Never merged into `documented`.
+  by: don
+  status: partly_recovered        # not from memory — from his own 2010 outbox. See dons-email-2010.
+  wants:
+    - answered_in_part: "which seat was his, and what he did from it"
+      by: dons-email-2010
+      still_wanted: "where in the room it stands, and what he did FROM it beyond broadcasting"
+    - "the story behind Lennon's song, as Don heard it told"
+    - "how he presided over the room, and what changed when he came in"
+  # The method worth repeating: Don's own sent mail is a better archive of his 2010 memory than
+  # his 2026 recall of 2010, and it is already written down. Search the outbox before the memory.
+  note: |
+    Recorded as prose in essays/, signed and dated, in Don's voice. The cat may retell it
+    only after it is written down — a simulated animal must not improvise a dead man's
+    biography, however affectionate the improvisation would be.
+
+usual_seat:
+  # LOCATED, named, and now attested twice by the same observer three years apart. The pair is
+  # worth more than either alone: 2010 says what the chair WAS, 2013 says how to behave near it.
+  name: "The John Sinclair Chair"
+
+  earliest_attestation:
+    date: 2010-09-14
+    source: dons-email-2010
+    written_by: don
+    quote: "Last time I was there, John Sinclair was there, sitting in the John Sinclair Chair
+            (the most comfortable chair in the place, reserved for and named after him)."
+    what_is_new_here: |
+      RESERVED FOR and NAMED AFTER him. The 2013 line gives a stranger the etiquette; this gives
+      the arrangement behind it, which is a different and larger claim — the room did not merely
+      tolerate where he sat, it held the seat and put his name on it.
+    and_don_saw_him_in_it: |
+      "Last time I was there, John Sinclair was there, sitting in" it. An eyewitness sighting on
+      an unrecorded date before 2010-09-14, which answers the first thing dons_testimony wants —
+      which seat was his — with a sighting rather than a report. Still testimony, not citation.
+
+  quote: "The John Sinclair Chair is the most comfortable, but if he's there, you should let him sit in it."
+  source: amsterdank-nl-2013
+  written: "before 2013-07-28, while he was alive"
+  written_by: don
+  # The tense is the point and must not be modernized. It is an instruction to a stranger
+  # about a living man's chair, and it is now the most precise memorial in this repository.
+  # Do not rewrite it into the past tense. Quote it as it was written and date it.
+  still_there: unknown            # thirteen years and a renovation cycle. Worth a look.
+  review_reason: seat-still-there
+  in_room: ../ROOM.yml            # object id: sinclairs-seat
+
+family_and_estate:
+  contacted: false
+  policy: |
+    His family and the John Sinclair Foundation get the last word on anything here,
+    without argument, including removal. If they want it changed, it changes. If they
+    want it gone, it goes. That standing offer is worth more than any license.
+
+copyright:
+  his_poems: "His. Quote briefly with attribution, link rather than reproduce."
+  lennons_song: "Lennon's, via his publisher. Name it; do not reprint the lyric."
+  photographs: "Whoever took them. Do not assume a press photo is free."
