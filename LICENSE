@@ -22,6 +22,17 @@ SOFTWARE.
 
 ---
 
-This license covers the CODE: everything in scripts/, the skills in skills/,
-and the documentation. The DATA is licensed separately and more permissively.
-See LICENSE-DATA.
+This license covers the CODE: everything in scripts/, the skills in skills/, the
+client application, and the documentation. The DATA is licensed separately and
+more permissively -- see LICENSE-DATA.
+
+ONE EXCEPTION, RESERVED: server/
+
+Server-side deployment code under server/ is NOT covered by this license and is
+all rights reserved. It is the one component that could be cloned into a hosted
+competitor, so it starts closed. Loosening a license later is trivial; tightening
+one is impossible, which is the only reason for the asymmetry.
+
+Everything the server needs in order to be useful -- the data, the schemas, the
+skills, the client, the importers -- is MIT or CC0, so a fork can host its own
+without asking. What is reserved is this deployment, not the capability.

@@ -160,12 +160,27 @@ refusal wearing an apron.
 Virtual goods, from the real board, into your inventory, which is where the ride begins:
 see [`GEOTOKING.md`](GEOTOKING.md).
 
-## Graduation candidate
+## This is an application of representation-ethics, not a new regime
 
-The consent tiers, the expiry, the recorded refusal, and the "referenced never inlined" rule
-are not specific to coffeeshops -- any MOOLLM room containing real people needs them. When a
-second application repo needs the same protocol, this section should be lifted upstream into
-[`skills/character/`](https://github.com/SimHacker/moollm/tree/main/skills/character) as
-`REAL-PEOPLE.md`, per
-[play-learn-lift](https://github.com/SimHacker/moollm/tree/main/skills/play-learn-lift). It
-starts here because this is where the real people are.
+The base law lives upstream in
+[`representation-ethics`](https://github.com/SimHacker/moollm/tree/main/skills/representation-ethics),
+and the tiers above are its **consent hierarchy** (self → explicit → public → private →
+deceased) applied to a retail counter. Read that skill before extending anything here:
+
+- `consent-hierarchy.yml` — the general ladder these five tiers instantiate
+- `self-authored-persona.yml` — tier 4, and the reason tier 4 is the goal
+- `emoji-disclosure.yml` — the **🤖 Robot Rule**, which is exactly what `is_a_person: false` above is
+- `framing-spectrum.yml` — activate traditions, do not impersonate
+- `worth-of-representation.yml` — whether a person belongs in the collection at all
+
+What this file adds is only what the counter adds: **expiry**, because retail turnover means
+old consent is not consent; **recorded refusals**, so the same person is not asked twice; and
+**referenced never inlined**, because git history makes deletion a lie unless the record was
+never committed in the first place. If those three generalize to another room full of real
+people, they belong upstream rather than here.
+
+The sibling regime for guests is
+[`schemas/portrayal-standards.md`](https://github.com/SimHacker/WillWrightShowForFood/blob/main/schemas/portrayal-standards.md)
+in WillWrightShowForFood: a portrayal is *about* a person and is never them, the subject may
+correct, reduce, replace or delete their own directory at any time, and silence is an answer
+that gets honoured. A budtender gets the same deal as a guest on the show.

@@ -76,6 +76,25 @@ YAML is the source of truth. The CSV register and the SQLite database are derive
 sync is one-way: **generators propose, humans edit, and the generator never overwrites a
 hand-written comment,** because the comments in a PLACE.yml are the fieldwork.
 
+## Shape of the app
+
+A modern SvelteKit app, built as **modules that mix and match across projects** rather than as
+one application. The register is a data module, the map is a layer, the tour player is a
+component, and the survey capture is its own thing -- so the same pieces can drop into other
+projects, or eventually into one general server, without being untangled first.
+
+```
+packages/register/     the claims model, resolution, review queue  (MIT)
+packages/map-layer/    the map layer: places, spots, tours          (MIT)
+packages/survey/       photo import, EXIF, consent capture          (MIT)
+apps/web/              the SvelteKit app that composes them         (MIT)
+server/                deployment, hosting, accounts                (rights reserved)
+```
+
+Everything a fork needs in order to run its own copy is permissive. The hosted deployment is
+the one reserved piece, per [LICENSE](LICENSE), and it is reserved rather than AGPL because
+loosening later is easy and tightening is not.
+
 ## Skills
 
 MOOLLM-compatible, with the split rule: does it have a jurisdiction?
