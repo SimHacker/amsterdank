@@ -152,7 +152,17 @@ refuses:
   - "Republishing somebody else's menu photographs as ours"
   - "Rendering a real person as a character without a recorded, unexpired consent"
   - "Assembling a budtender from reviews, photos or social media instead of asking them"
-  - "Attributing a generated recommendation to a named person or to the shop itself"
+  # A house mascot is the one exception, and only within it: the shop authored the words, so
+  # the words are the shop's. Beyond what the shop wrote, the mascot is as mute as the robot.
+  - "Attributing a generated recommendation to a named person, or to the shop itself except
+     through a mascot the shop authored and granted"
+  - "Voicing a celebrity because a shop trades under their name — a name is not a persona,
+     and a shop's brand licence licenses the shop, not us"
+  - "Accepting a sublicence on a handshake: a licensed mascot needs a written warranty
+     naming the licensor and the scope"
+  - "Saying through a pet what we could not say directly — a narrative buffer is not a
+     loophole, and a parrot repeats only what the house wrote, never what it overheard"
+  - "Depicting an animal consuming anything, joke or not. The 420 Café put it on a sign."
 
 # A SHOP IS A DIRECTORY, not a file. One record cannot hold photographs, a menu read
 # four times over four years, the objects on the shelves, and the people at the counter.
@@ -162,8 +172,15 @@ layout:
   COFFEESHOP.yml: "the trade — this skill"
   menu/:          "one file per board reading, dated. A time series, never overwritten."
   survey/:        "photographs, tracks, notes. The evidence."
-  characters/:    "consent.yml gates everything here. robot.yml when nobody consented."
-  objects/:       "furniture, props, the cat, the board itself"
+  characters/:    "consent.yml gates the PEOPLE here. robot.yml when nobody consented.
+                   Mascots and pets are animate too and live here, ungated: nobody asks a cat."
+  objects/:       "furniture, props, the aquarium, the board itself"
+  history/:       "what the address was before it sold weed. Sidecar per image, wrapper per story."
+  # EVERY IMAGE CARRIES A SIDECAR of the same basename: rights, archive id, maker, what it shows,
+  # what it cannot say about itself. A picture in a repo with no sidecar is an orphan nobody can
+  # safely republish. Then a markdown wrapper embeds it and tells the story, because YAML is for
+  # the machine and the story is for the human. Worked example:
+  # spots/leliegracht-horse-hoist/{STORY.md, *.jpg, *.yml}
 
 plugins:
   BUDTENDERS.md: |
@@ -171,6 +188,30 @@ plugins:
     generic robot that staffs the shop when nobody agreed. Ask them how they want to be
     represented; tier 4 is they write it themselves. Graduation candidate for
     skills/character/REAL-PEOPLE.md upstream.
+    Also house mascots — the dolphin at The Dolphin's — which are a shop's own tier 4:
+    nobody's likeness, so nobody's consent, and the mascot's words are the shop's own
+    claims. A licensed celebrity is three rights and the shop holds one, so a shop trading
+    under a comedian's name gets its name recorded and no voice put in its mouth.
+    Pets are the free case — cats, dogs, parrots, snakes, no consent, facts are facts — with
+    two traps: a talking animal is us talking, and the house rule outranks the joke.
+  GHOSTS.md: |
+    The past of an address: the trade that was there before the shop (Amsterdam's first horse
+    butchery is now a coffeeshop called First Aid), and the shops that are gone. Off-roster is a
+    question; closed is an answer with a date and a cause. Dead shops keep their records, earn a
+    ceremony, and pair with spots on a ride. Then-and-now rephotography, and why none of this is
+    Pokémon Go.
+  SURVEY.md: |
+    Riding the register: 245 of 246 doors carry an open question, and the questions were already
+    written into review.reasons by build_places.py rather than invented for the survey.
+    scripts/build_worklist.py projects them into data/worklist.yml as 29 Hilbert-ordered rounds
+    with the question and the frame per door. One rider, dogfooding the multi-rider worklist in
+    WWSFF's mechanical-turk-ebike.md before anyone else is asked to use it. Protocol: one frame
+    answering two questions, speak the note, exterior from public space and interiors only with
+    recorded permission, illegible is a legitimate answer, a hand-written one_look_settles beats
+    any generated prompt. Findings go back to PLACE.yml as appended survey entries, never into the
+    derived worklist. And the licensing payoff: a first-party doorstep observation is osm_ok by
+    construction, so riding it is the only route from what the repo suspects to what it may
+    contribute.
   GEOTOKING.md: |
     What the robot sells you, and where you take it: inventory items keyed to a board
     reading, spots (places with no address — Vondelpark benches), signed episodes, and
