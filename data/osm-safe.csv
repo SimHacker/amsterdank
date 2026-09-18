@@ -1,1 +1,897 @@
 subject,field,value,source,observed,confidence,note,license
+1e-bloemdwarsstraat-2,coordinate,"52.3745,4.8815",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 271.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+1e-bloemdwarsstraat-2,key_photo,PicturesOriginal/IMG_1123.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+1e-bloemdwarsstraat-2,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+1e-bloemdwarsstraat-2,photo_heading,271.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+1e-oosterparkstraat-47,coordinate,"52.356,4.909",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 32.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+1e-oosterparkstraat-47,key_photo,PicturesOriginal/IMG_0486.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+1e-oosterparkstraat-47,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+1e-oosterparkstraat-47,photo_heading,32.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+1e-van-der-helststraat-70,coordinate,"52.3548333,4.8935",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 233.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+1e-van-der-helststraat-70,key_photo,PicturesOriginal/IMG_0576.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+1e-van-der-helststraat-70,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+1e-van-der-helststraat-70,photo_heading,233.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+2e-jan-van-der-heijdenstraat-43,coordinate,"52.3556667,4.901",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 301.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+2e-jan-van-der-heijdenstraat-43,key_photo,PicturesOriginal/IMG_0635.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+2e-jan-van-der-heijdenstraat-43,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+2e-jan-van-der-heijdenstraat-43,photo_heading,301.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+2e-jan-van-der-heijdenstraat-79,coordinate,"52.3561667,4.9031667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 299.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+2e-jan-van-der-heijdenstraat-79,key_photo,PicturesOriginal/IMG_0627.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+2e-jan-van-der-heijdenstraat-79,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+2e-jan-van-der-heijdenstraat-79,photo_heading,299.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+2e-laurierdwarsstraat-44,coordinate,"52.3716667,4.8791667",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 303.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+2e-laurierdwarsstraat-44,key_photo,PicturesOriginal/IMG_1102.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+2e-laurierdwarsstraat-44,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+2e-laurierdwarsstraat-44,photo_heading,303.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+2e-nassaustraat-1a,coordinate,"52.3821667,4.8786667",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 13.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+2e-nassaustraat-1a,key_photo,PicturesOriginal/IMG_0934.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+2e-nassaustraat-1a,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+2e-nassaustraat-1a,photo_heading,13.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+3e-oosterparkstraat-142,coordinate,"52.3571667,4.9193333",photos-2009,2009-10-13,0.6,"own GPS, camera bearing 24.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+3e-oosterparkstraat-142,key_photo,PicturesOriginal/IMG_0502.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+3e-oosterparkstraat-142,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+3e-oosterparkstraat-142,photo_heading,24.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+3e-oosterparkstraat-73,coordinate,"52.356,4.9161667",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 25.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+3e-oosterparkstraat-73,key_photo,PicturesOriginal/IMG_0493.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+3e-oosterparkstraat-73,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+3e-oosterparkstraat-73,photo_heading,25.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+achillesstraat-104,coordinate,"52.3448333,4.8645",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 226.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+achillesstraat-104,key_photo,PicturesOriginal/IMG_0648.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+achillesstraat-104,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+achillesstraat-104,photo_heading,226.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+admiraal-de-ruijterweg-104,coordinate,"52.3726667,4.8595",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 110.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+admiraal-de-ruijterweg-104,key_photo,PicturesOriginal/IMG_0710.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+admiraal-de-ruijterweg-104,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+admiraal-de-ruijterweg-104,photo_heading,110.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+agatha-dekenstraat-40,coordinate,"52.3688333,4.867",photos-2009,2009-10-15,0.9,"own GPS, DOP 5.0, camera bearing 186.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+agatha-dekenstraat-40,key_photo,PicturesOriginal/IMG_0897.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+agatha-dekenstraat-40,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+agatha-dekenstraat-40,photo_heading,186.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+albert-cuypstraat-25,coordinate,"52.3546667,4.8876667",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 50.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+albert-cuypstraat-25,key_photo,PicturesOriginal/IMG_0571.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+albert-cuypstraat-25,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+albert-cuypstraat-25,photo_heading,50.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+amstel-36,coordinate,"52.3671667,4.8956667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 152.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+amstel-36,key_photo,PicturesOriginal/IMG_0139.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+amstel-36,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+amstel-36,photo_heading,152.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+amstel-8,coordinate,"52.3671667,4.8941667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 154.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+amstel-8,key_photo,PicturesOriginal/IMG_0146.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+amstel-8,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+amstel-8,photo_heading,154.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+amsteldijk-139,coordinate,"52.3466667,4.9115",photos-2009,2009-10-13,0.9,"own GPS, DOP 5.0, camera bearing 244.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+amsteldijk-139,key_photo,PicturesOriginal/IMG_0506.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+amsteldijk-139,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+amsteldijk-139,photo_heading,244.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+amstelstraat-35,coordinate,"52.3646667,4.8995",photos-2009,2009-10-04,0.6,"own GPS, DOP 10.0, camera bearing 249.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+amstelstraat-35,key_photo,PicturesOriginal/IMG_0048.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+amstelstraat-35,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+amstelstraat-35,photo_heading,249.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+amstelstraat-45,coordinate,"52.365,4.8993333",photos-2009,2009-10-04,0.9,"own GPS, DOP 5.0, camera bearing 293.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+amstelstraat-45,key_photo,PicturesOriginal/IMG_0049.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+amstelstraat-45,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+amstelstraat-45,photo_heading,293.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+amstelveenseweg-1160,coordinate,"52.3218333,4.8566667",photos-2009,2009-11-06,0.6,"own GPS, DOP 10.0, camera bearing 5.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+amstelveenseweg-1160,key_photo,PicturesOriginal/IMG_5027.JPG,photos-2009,2009-11-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+amstelveenseweg-1160,trading,true,photos-2009,2009-11-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+amstelveenseweg-1160,photo_heading,5.9,photos-2009,2009-11-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+amstelveenseweg-61,coordinate,"52.354,4.8556667",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 304.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+amstelveenseweg-61,key_photo,PicturesOriginal/IMG_0662.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+amstelveenseweg-61,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+amstelveenseweg-61,photo_heading,304.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+baarsjesweg-239,coordinate,"52.3623333,4.8575",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 264.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+baarsjesweg-239,key_photo,PicturesOriginal/IMG_0753.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+baarsjesweg-239,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+baarsjesweg-239,photo_heading,264.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+balboastraat-19,coordinate,"52.3691667,4.8535",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 220.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+balboastraat-19,key_photo,PicturesOriginal/IMG_0736.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+balboastraat-19,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+balboastraat-19,photo_heading,220.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+balthasar-floriszstraat-10,coordinate,"52.3531667,4.8848333",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 139.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+balthasar-floriszstraat-10,key_photo,PicturesOriginal/IMG_0565.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+balthasar-floriszstraat-10,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+balthasar-floriszstraat-10,photo_heading,139.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+barentszstraat-130,coordinate,"52.389,4.8875",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 37.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+barentszstraat-130,key_photo,PicturesOriginal/IMG_0963.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+barentszstraat-130,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+barentszstraat-130,photo_heading,37.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+beursstraat-27,coordinate,"52.3748333,4.8963333",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 199.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+beursstraat-27,key_photo,PicturesOriginal/IMG_1264.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+beursstraat-27,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+beursstraat-27,photo_heading,199.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+binnen-oranjestraat-9,coordinate,"52.3821667,4.887",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 65.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+binnen-oranjestraat-9,key_photo,PicturesOriginal/IMG_0393.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+binnen-oranjestraat-9,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+binnen-oranjestraat-9,photo_heading,65.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+bonairestraat-78,coordinate,"52.3621667,4.8553333",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 29.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+bonairestraat-78,key_photo,PicturesOriginal/IMG_0746.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+bonairestraat-78,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+bonairestraat-78,photo_heading,29.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+bos-en-lommerweg-163,coordinate,"52.3811667,4.8553333",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 169.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+bos-en-lommerweg-163,key_photo,PicturesOriginal/IMG_0694.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+bos-en-lommerweg-163,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+bos-en-lommerweg-163,photo_heading,169.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+brouwersgracht-11,coordinate,"52.379,4.8931667",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 253.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+brouwersgracht-11,key_photo,PicturesOriginal/IMG_0995.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+brouwersgracht-11,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+brouwersgracht-11,photo_heading,253.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+brouwersgracht-137,coordinate,"52.3815,4.8863333",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 89.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+brouwersgracht-137,key_photo,PicturesOriginal/IMG_0390.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+brouwersgracht-137,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+brouwersgracht-137,photo_heading,89.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+chassestraat-4,coordinate,"52.3673333,4.862",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 295.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+chassestraat-4,key_photo,PicturesOriginal/IMG_0814.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+chassestraat-4,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+chassestraat-4,photo_heading,295.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+churchilllaan-86,coordinate,"52.347,4.898",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 321.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+churchilllaan-86,key_photo,PicturesOriginal/IMG_0517.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+churchilllaan-86,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+churchilllaan-86,photo_heading,321.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+czaar-peterstraat-122,coordinate,"52.3703333,4.93",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 68.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+czaar-peterstraat-122,key_photo,PicturesOriginal/IMG_0467.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+czaar-peterstraat-122,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+czaar-peterstraat-122,photo_heading,68.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+da-costastraat-51,coordinate,"52.369,4.874",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 3.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+da-costastraat-51,key_photo,PicturesOriginal/IMG_0778.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+da-costastraat-51,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+da-costastraat-51,photo_heading,3.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+damstraat-8,coordinate,"52.3723333,4.8945",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 277.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+damstraat-8,key_photo,PicturesOriginal/IMG_1217.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+damstraat-8,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+damstraat-8,photo_heading,277.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+daniel-goedkoopstraat-1,coordinate,"52.3355,4.9198333",photos-2009,2009-11-17,0.9,"own GPS, DOP 1.0, camera bearing 252.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+daniel-goedkoopstraat-1,key_photo,PicturesOriginal/IMG_5053.JPG,photos-2009,2009-11-17,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+daniel-goedkoopstraat-1,trading,true,photos-2009,2009-11-17,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+daniel-goedkoopstraat-1,photo_heading,252.9,photos-2009,2009-11-17,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+daniel-stalpertstraat-78,coordinate,"52.3561667,4.8911667",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 271.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+daniel-stalpertstraat-78,key_photo,PicturesOriginal/IMG_0585.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+daniel-stalpertstraat-78,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+daniel-stalpertstraat-78,photo_heading,271.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+dapperstraat-2,coordinate,"52.3653333,4.9258333",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 105.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+dapperstraat-2,key_photo,PicturesOriginal/IMG_0462.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+dapperstraat-2,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+dapperstraat-2,photo_heading,105.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+de-clercqstraat-30,coordinate,"52.3713333,4.8715",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 307.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+de-clercqstraat-30,key_photo,PicturesOriginal/IMG_0780.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+de-clercqstraat-30,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+de-clercqstraat-30,photo_heading,307.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-14,coordinate,"52.3526667,4.889",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 298.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-14,key_photo,PicturesOriginal/IMG_0556.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-14,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-14,photo_heading,298.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-22,coordinate,"52.3521667,4.8893333",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 127.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-22,key_photo,PicturesOriginal/IMG_0550.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-22,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-22,photo_heading,127.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-57,coordinate,"52.351,4.8893333",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 190.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-57,key_photo,PicturesOriginal/IMG_0547.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-57,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+dusartstraat-57,photo_heading,190.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+elandsgracht-3,coordinate,"52.3701667,4.8821667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 168.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+elandsgracht-3,key_photo,PicturesOriginal/IMG_0208.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+elandsgracht-3,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+elandsgracht-3,photo_heading,168.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+elandsgracht-53,coordinate,"52.3695,4.88",photos-2009,2009-10-06,0.6,"own GPS, DOP 10.0, camera bearing 123.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+elandsgracht-53,key_photo,PicturesOriginal/IMG_0196.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+elandsgracht-53,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+elandsgracht-53,photo_heading,123.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-123,coordinate,"52.3738333,4.8725",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 81.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-123,key_photo,PicturesOriginal/IMG_0902.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-123,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-123,photo_heading,81.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-22,coordinate,"52.3778333,4.8746667",photos-2009,2009-10-15,0.9,"own GPS, DOP 0.5, camera bearing 136.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-22,key_photo,PicturesOriginal/IMG_0923.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-22,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-22,photo_heading,136.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-69,coordinate,"52.3758333,4.8735",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 48.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-69,key_photo,PicturesOriginal/IMG_0916.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-69,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+frederik-hendrikstraat-69,photo_heading,48.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+geldersekade-2,coordinate,"52.3763333,4.9018333",photos-2009,2009-10-04,0.9,"own GPS, DOP 5.0, camera bearing 141.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+geldersekade-2,key_photo,PicturesOriginal/IMG_0033.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+geldersekade-2,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+geldersekade-2,photo_heading,141.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+geldersekade-54,coordinate,"52.3751667,4.9016667",photos-2009,2009-10-04,0.9,"own GPS, DOP 5.0, camera bearing 136.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+geldersekade-54,key_photo,PicturesOriginal/IMG_0035.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+geldersekade-54,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+geldersekade-54,photo_heading,136.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+gerard-doustraat-188,coordinate,"52.3566667,4.8958333",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 188.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+gerard-doustraat-188,key_photo,PicturesOriginal/IMG_0595.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+gerard-doustraat-188,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+gerard-doustraat-188,photo_heading,188.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+gerard-doustraat-85,coordinate,"52.3558333,4.892",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 267.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+gerard-doustraat-85,key_photo,PicturesOriginal/IMG_0577.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+gerard-doustraat-85,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+gerard-doustraat-85,photo_heading,267.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+gillis-van-ledenberchstraat-135,coordinate,"52.3751667,4.8711667",photos-2009,2009-10-15,0.9,"own GPS, DOP 1.0, camera bearing 338.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+gillis-van-ledenberchstraat-135,key_photo,PicturesOriginal/IMG_0909.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+gillis-van-ledenberchstraat-135,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+gillis-van-ledenberchstraat-135,photo_heading,338.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+gravenstraat-5,coordinate,"52.3741667,4.8933333",photos-2009,2009-10-16,0.9,"own GPS, DOP 5.0, camera bearing 225.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+gravenstraat-5,key_photo,PicturesOriginal/IMG_1189.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+gravenstraat-5,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+gravenstraat-5,photo_heading,225.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+gravenstraat-9,coordinate,"52.3741667,4.8926667",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 207.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+gravenstraat-9,key_photo,PicturesOriginal/IMG_1196.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+gravenstraat-9,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+gravenstraat-9,photo_heading,207.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-102,coordinate,"52.3805,4.8911667",photos-2009,2009-10-27,0.9,"own GPS, DOP 5.0, camera bearing 335.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-102,key_photo,PicturesOriginal/IMG_3025.JPG,photos-2009,2009-10-27,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-102,trading,true,photos-2009,2009-10-27,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-102,photo_heading,335.9,photos-2009,2009-10-27,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-34,coordinate,"52.3798333,4.8931667",photos-2009,2009-10-15,0.9,"own GPS, DOP 1.0, camera bearing 269.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-34,key_photo,PicturesOriginal/IMG_0987.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-34,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-34,photo_heading,269.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-44,coordinate,"52.3801667,4.8928333",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 100.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-44,key_photo,PicturesOriginal/IMG_0980.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-44,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-44,photo_heading,100.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-6,coordinate,"52.3795,4.8936667",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 293.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-6,key_photo,PicturesOriginal/IMG_0991.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-6,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-6,photo_heading,293.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-63,coordinate,"52.38,4.8928333",photos-2009,2009-10-15,0.6,"own GPS, camera bearing 165.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-63,key_photo,PicturesOriginal/IMG_0982.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-63,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-63,photo_heading,165.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-64,coordinate,"52.3803333,4.892",photos-2009,2009-10-15,0.9,"own GPS, DOP 1.0, camera bearing 56.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-64,key_photo,PicturesOriginal/IMG_0976.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-64,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+haarlemmerstraat-64,photo_heading,56.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+halvemaansteeg-1,coordinate,"52.367,4.8958333",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 35.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+halvemaansteeg-1,key_photo,PicturesOriginal/IMG_0138.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+halvemaansteeg-1,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+halvemaansteeg-1,photo_heading,35.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+halvemaansteeg-5,coordinate,"52.367,4.8958333",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 35.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+halvemaansteeg-5,key_photo,PicturesOriginal/IMG_0136.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+halvemaansteeg-5,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+halvemaansteeg-5,photo_heading,35.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+handboogstraat-29,coordinate,"52.3686667,4.8891667",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 67.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+handboogstraat-29,key_photo,PicturesOriginal/IMG_0242.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+handboogstraat-29,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+handboogstraat-29,photo_heading,67.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+haringpakkerssteeg-3,coordinate,"52.3766667,4.8978333",photos-2009,2009-10-16,0.6,"own GPS, camera bearing 325.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+haringpakkerssteeg-3,key_photo,PicturesOriginal/IMG_1160.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+haringpakkerssteeg-3,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+haringpakkerssteeg-3,photo_heading,325.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+haringpakkerssteeg-8,coordinate,"52.3766667,4.8978333",photos-2009,2009-10-16,0.6,"own GPS, camera bearing 348.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+haringpakkerssteeg-8,key_photo,PicturesOriginal/IMG_1156.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+haringpakkerssteeg-8,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+haringpakkerssteeg-8,photo_heading,348.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+hazenstraat-15,coordinate,"52.3706667,4.88",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 349.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+hazenstraat-15,key_photo,PicturesOriginal/IMG_1096.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+hazenstraat-15,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+hazenstraat-15,photo_heading,349.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+heisteeg-6,coordinate,"52.3688333,4.8881667",photos-2009,2009-10-16,0.9,"own GPS, DOP 5.0, camera bearing 294.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+heisteeg-6,key_photo,PicturesOriginal/IMG_1075.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+heisteeg-6,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+heisteeg-6,photo_heading,294.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+hekelveld-7,coordinate,"52.3776667,4.8956667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 318.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+hekelveld-7,key_photo,PicturesOriginal/IMG_0356.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+hekelveld-7,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+hekelveld-7,photo_heading,318.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+hemonystraat-16,coordinate,"52.3575,4.9021667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 198.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+hemonystraat-16,key_photo,PicturesOriginal/IMG_0633.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+hemonystraat-16,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+hemonystraat-16,photo_heading,198.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+herengracht-133,coordinate,"52.3756667,4.889",photos-2009,2009-10-15,0.9,"own GPS, DOP 5.0, camera bearing 64.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+herengracht-133,key_photo,PicturesOriginal/IMG_0999.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+herengracht-133,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+herengracht-133,photo_heading,64.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+herengracht-287,coordinate,"52.3706667,4.887",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 34.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+herengracht-287,key_photo,PicturesOriginal/IMG_1208.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+herengracht-287,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+herengracht-287,photo_heading,34.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+hoofdweg-174,coordinate,"52.3655,4.8531667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 140.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+hoofdweg-174,key_photo,PicturesOriginal/IMG_0741.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+hoofdweg-174,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+hoofdweg-174,photo_heading,140.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+hoofdweg-226,coordinate,"52.3668333,4.8526667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 96.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+hoofdweg-226,key_photo,PicturesOriginal/IMG_0738.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+hoofdweg-226,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+hoofdweg-226,photo_heading,96.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+hudsonstraat-138,coordinate,"52.3688333,4.8528333",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 44.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+hudsonstraat-138,key_photo,PicturesOriginal/IMG_0724.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+hudsonstraat-138,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+hudsonstraat-138,photo_heading,44.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+hudsonstraat-156,coordinate,"52.3696667,4.8523333",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 68.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+hudsonstraat-156,key_photo,PicturesOriginal/IMG_0730.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+hudsonstraat-156,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+hudsonstraat-156,photo_heading,68.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+huidenstraat-13,coordinate,"52.3688333,4.8855",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 133.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+huidenstraat-13,key_photo,PicturesOriginal/IMG_1078.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+huidenstraat-13,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+huidenstraat-13,photo_heading,133.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+jan-hanzenstraat-109,coordinate,"52.3676667,4.8638333",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 97.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+jan-hanzenstraat-109,key_photo,PicturesOriginal/IMG_0789.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+jan-hanzenstraat-109,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+jan-hanzenstraat-109,photo_heading,97.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+jan-pieter-heijestraat-82,coordinate,"52.3638333,4.8631667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 300.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+jan-pieter-heijestraat-82,key_photo,PicturesOriginal/IMG_0797.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+jan-pieter-heijestraat-82,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+jan-pieter-heijestraat-82,photo_heading,300.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+jan-pieter-heijestraat-96,coordinate,"52.3638333,4.8635",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 233.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+jan-pieter-heijestraat-96,key_photo,PicturesOriginal/IMG_0793.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+jan-pieter-heijestraat-96,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+jan-pieter-heijestraat-96,photo_heading,233.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-147,coordinate,"52.3743333,4.8571667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 214.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-147,key_photo,PicturesOriginal/IMG_0698.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-147,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-147,photo_heading,214.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-285,coordinate,"52.3728333,4.8491667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 106.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-285,key_photo,PicturesOriginal/IMG_0719.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-285,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-285,photo_heading,106.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-49,coordinate,"52.3751667,4.8635",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 47.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-49,key_photo,PicturesOriginal/IMG_0706.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-49,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+jan-van-galenstraat-49,photo_heading,47.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+javastraat-104,coordinate,"52.3638333,4.9368333",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 64.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+javastraat-104,key_photo,PicturesOriginal/IMG_0450.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+javastraat-104,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+javastraat-104,photo_heading,64.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+jonge-roelensteeg-12,coordinate,"52.372,4.8908333",photos-2009,2009-10-16,0.6,"own GPS, DOP 10.0, camera bearing 64.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+jonge-roelensteeg-12,key_photo,PicturesOriginal/IMG_1203.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+jonge-roelensteeg-12,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+jonge-roelensteeg-12,photo_heading,64.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+katrijpstraat-301,coordinate,"52.3938333,4.9531667",photos-2009,2009-10-18,0.9,"own GPS, DOP 3.0, camera bearing 144.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+katrijpstraat-301,key_photo,PicturesOriginal/IMG_1281.JPG,photos-2009,2009-10-18,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+katrijpstraat-301,trading,true,photos-2009,2009-10-18,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+katrijpstraat-301,photo_heading,144.9,photos-2009,2009-10-18,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+kerkstraat-39,coordinate,"52.3655,4.8853333",photos-2009,2009-10-06,0.9,"own GPS, DOP 5.0, camera bearing 38.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+kerkstraat-39,key_photo,PicturesOriginal/IMG_0172.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+kerkstraat-39,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+kerkstraat-39,photo_heading,38.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+kerkstraat-51,coordinate,"52.3655,4.8853333",photos-2009,2009-10-06,0.9,"own GPS, DOP 5.0, camera bearing 58.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+kerkstraat-51,key_photo,PicturesOriginal/IMG_0175.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+kerkstraat-51,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+kerkstraat-51,photo_heading,58.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-4,coordinate,"52.372,4.8991667",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 322.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-4,key_photo,PicturesOriginal/IMG_1029.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-4,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-4,photo_heading,322.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-42,coordinate,"52.3713333,4.8986667",photos-2009,2009-10-16,0.9,"own GPS, DOP 1.0, camera bearing 190.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-42,key_photo,PicturesOriginal/IMG_1035.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-42,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-42,photo_heading,190.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-60,coordinate,"52.37,4.8976667",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 298.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-60,key_photo,PicturesOriginal/IMG_1039.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-60,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-60,photo_heading,298.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-62,coordinate,"52.37,4.8978333",photos-2009,2009-11-08,0.6,"own GPS, camera bearing 32.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-62,key_photo,PicturesOriginal/IMG_5038.JPG,photos-2009,2009-11-08,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-62,trading,true,photos-2009,2009-11-08,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+kloveniersburgwal-62,photo_heading,32.9,photos-2009,2009-11-08,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+kolksteeg-10,coordinate,"52.376,4.896",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 323.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+kolksteeg-10,key_photo,PicturesOriginal/IMG_0044.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+kolksteeg-10,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+kolksteeg-10,photo_heading,323.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+korte-koningsstraat-2,coordinate,"52.372,4.9026667",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 83.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+korte-koningsstraat-2,key_photo,PicturesOriginal/IMG_1012.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+korte-koningsstraat-2,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+korte-koningsstraat-2,photo_heading,83.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+korte-leidsedwarsstraat-145,coordinate,"52.3631667,4.8855",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 328.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+korte-leidsedwarsstraat-145,key_photo,PicturesOriginal/IMG_0871.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+korte-leidsedwarsstraat-145,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+korte-leidsedwarsstraat-145,photo_heading,328.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+korte-leidsedwarsstraat-77,coordinate,"52.364,4.884",photos-2009,2009-10-06,0.9,"own GPS, DOP 5.0, camera bearing 348.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+korte-leidsedwarsstraat-77,key_photo,PicturesOriginal/IMG_0190.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+korte-leidsedwarsstraat-77,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+korte-leidsedwarsstraat-77,photo_heading,348.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+krugerplein-22,coordinate,"52.354,4.9193333",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 339.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+krugerplein-22,key_photo,PicturesOriginal/IMG_0498.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+krugerplein-22,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+krugerplein-22,photo_heading,339.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+lange-leidsedwarsstraat-41,coordinate,"52.3643333,4.8846667",photos-2009,2009-10-06,0.9,"own GPS, DOP 5.0, camera bearing 334.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+lange-leidsedwarsstraat-41,key_photo,PicturesOriginal/IMG_0184.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+lange-leidsedwarsstraat-41,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+lange-leidsedwarsstraat-41,photo_heading,334.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-25,coordinate,"52.375,4.8988333",photos-2009,2009-10-04,0.9,"own GPS, DOP 3.0, camera bearing 311.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-25,key_photo,PicturesOriginal/IMG_0038.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-25,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-25,photo_heading,311.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-27,coordinate,"52.375,4.8993333",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 335.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-27,key_photo,PicturesOriginal/IMG_1248.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-27,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-27,photo_heading,335.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-7,coordinate,"52.375,4.8985",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 269.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-7,key_photo,PicturesOriginal/IMG_1256.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-7,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+lange-niezel-7,photo_heading,269.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+langebrugsteeg-7a,coordinate,"52.3696667,4.8928333",photos-2009,2009-10-16,0.9,"own GPS, DOP 5.0, camera bearing 282.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+langebrugsteeg-7a,key_photo,PicturesOriginal/IMG_1054.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+langebrugsteeg-7a,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+langebrugsteeg-7a,photo_heading,282.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+leidseplein-17,coordinate,"52.3641667,4.8833333",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 139.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+leidseplein-17,key_photo,PicturesOriginal/IMG_0194.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+leidseplein-17,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+leidseplein-17,photo_heading,139.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+linnaeusstraat-83,coordinate,"52.3596667,4.9256667",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 351.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+linnaeusstraat-83,key_photo,PicturesOriginal/IMG_0441.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+linnaeusstraat-83,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+linnaeusstraat-83,photo_heading,351.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+lodewijk-van-deysselstraat-37,coordinate,"52.3771667,4.8163333",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 172.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+lodewijk-van-deysselstraat-37,key_photo,PicturesOriginal/IMG_0691.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+lodewijk-van-deysselstraat-37,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+lodewijk-van-deysselstraat-37,photo_heading,172.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-194,coordinate,"52.3713333,4.8765",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 329.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-194,key_photo,PicturesOriginal/IMG_0201.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-194,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-194,photo_heading,329.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-333,coordinate,"52.3726667,4.8758333",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 159.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-333,key_photo,PicturesOriginal/IMG_0204.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-333,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-333,photo_heading,159.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-383,coordinate,"52.3658333,4.8801667",photos-2009,2009-10-15,0.9,"own GPS, DOP 5.0",CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-383,key_photo,PicturesOriginal/IMG_0884.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-383,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-92,coordinate,"52.3791667,4.8796667",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 257.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-92,key_photo,PicturesOriginal/IMG_0927.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-92,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+marnixstraat-92,photo_heading,257.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+meer-en-vaart-177b,coordinate,"52.3601667,4.8076667",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 303.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+meer-en-vaart-177b,key_photo,PicturesOriginal/IMG_0679.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+meer-en-vaart-177b,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+meer-en-vaart-177b,photo_heading,303.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nassaukade-33,coordinate,"52.3825,4.8798333",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 352.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nassaukade-33,key_photo,PicturesOriginal/IMG_0939.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nassaukade-33,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nassaukade-33,photo_heading,352.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+niasstraat-1,coordinate,"52.3651667,4.9396667",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 273.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+niasstraat-1,key_photo,PicturesOriginal/IMG_0452.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+niasstraat-1,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+niasstraat-1,photo_heading,273.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+niasstraat-31,coordinate,"52.365,4.9415",photos-2009,2009-10-13,0.9,"own GPS, DOP 1.0, camera bearing 310.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+niasstraat-31,key_photo,PicturesOriginal/IMG_0457.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+niasstraat-31,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+niasstraat-31,photo_heading,310.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwe-herengracht-71,coordinate,"52.3673333,4.9066667",photos-2009,2009-10-04,0.9,"own GPS, DOP 5.0, camera bearing 169.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwe-herengracht-71,key_photo,PicturesOriginal/IMG_0059.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwe-herengracht-71,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwe-herengracht-71,photo_heading,169.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwe-nieuwstraat-32,coordinate,"52.3753333,4.8936667",photos-2009,2009-10-16,0.6,"own GPS, camera bearing 237.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwe-nieuwstraat-32,key_photo,PicturesOriginal/IMG_1162.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwe-nieuwstraat-32,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwe-nieuwstraat-32,photo_heading,237.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwebrugsteeg-24,coordinate,"52.3765,4.9",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 257.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwebrugsteeg-24,key_photo,PicturesOriginal/IMG_0029.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwebrugsteeg-24,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwebrugsteeg-24,photo_heading,257.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-1,coordinate,"52.3788333,4.8946667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 353.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-1,key_photo,PicturesOriginal/IMG_0369.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-1,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-1,photo_heading,353.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-30,coordinate,"52.3783333,4.8953333",photos-2009,2009-10-06,0.9,"own GPS, DOP 5.0, camera bearing 276.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-30,key_photo,PicturesOriginal/IMG_0366.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-30,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-30,photo_heading,276.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-32,coordinate,"52.378,4.8961667",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 117.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-32,key_photo,PicturesOriginal/IMG_0361.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-32,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-32,photo_heading,117.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-89,coordinate,"52.3768333,4.8963333",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 16.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-89,key_photo,PicturesOriginal/IMG_0345.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-89,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwendijk-89,photo_heading,16.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-kolk-21,coordinate,"52.3763333,4.8943333",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 314.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-kolk-21,key_photo,PicturesOriginal/IMG_0300.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-kolk-21,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-kolk-21,photo_heading,314.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-132,coordinate,"52.3751667,4.8918333",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 347.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-132,key_photo,PicturesOriginal/IMG_1171.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-132,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-132,photo_heading,347.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-59,coordinate,"52.376,4.8931667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 94.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-59,key_photo,PicturesOriginal/IMG_0303.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-59,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-59,photo_heading,94.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-87a,coordinate,"52.3755,4.8923333",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 16.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-87a,key_photo,PicturesOriginal/IMG_0306.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-87a,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwezijds-voorburgwal-87a,photo_heading,16.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-12,coordinate,"52.3728333,4.9",photos-2009,2009-10-16,0.9,"own GPS, DOP 1.0, camera bearing 306.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-12,key_photo,PicturesOriginal/IMG_1022.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-12,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-12,photo_heading,306.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-14,coordinate,"52.3728333,4.9",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 340.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-14,key_photo,PicturesOriginal/IMG_1026.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-14,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-14,photo_heading,340.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-4a,coordinate,"52.373,4.9003333",photos-2009,2009-10-16,0.9,"own GPS, DOP 1.0, camera bearing 236.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-4a,key_photo,PicturesOriginal/IMG_1015.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-4a,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+nieuwmarkt-4a,photo_heading,236.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+ooievaarsweg-10,coordinate,"52.3838333,4.9123333",photos-2009,2009-10-18,0.6,"own GPS, camera bearing 276.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+ooievaarsweg-10,key_photo,PicturesOriginal/IMG_1279.JPG,photos-2009,2009-10-18,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+ooievaarsweg-10,trading,true,photos-2009,2009-10-18,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+ooievaarsweg-10,photo_heading,276.9,photos-2009,2009-10-18,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+orteliusstraat-193,coordinate,"52.37,4.8493333",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 202.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+orteliusstraat-193,key_photo,PicturesOriginal/IMG_0718.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+orteliusstraat-193,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+orteliusstraat-193,photo_heading,202.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-13,coordinate,"52.3715,4.897",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 72.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-13,key_photo,PicturesOriginal/IMG_1233.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-13,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-13,photo_heading,72.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-2,coordinate,"52.3715,4.897",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 144.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-2,key_photo,PicturesOriginal/IMG_1237.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-2,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-2,photo_heading,144.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-5,coordinate,"52.3715,4.897",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 77.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-5,key_photo,PicturesOriginal/IMG_1231.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-5,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oude-hoogstraat-5,photo_heading,77.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oude-leliestraat-2,coordinate,"52.3745,4.8893333",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 233.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oude-leliestraat-2,key_photo,PicturesOriginal/IMG_0225.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oude-leliestraat-2,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oude-leliestraat-2,photo_heading,233.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-16,coordinate,"52.3755,4.8971667",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 37.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-16,key_photo,PicturesOriginal/IMG_0624.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-16,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-16,photo_heading,37.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-26,coordinate,"52.3756667,4.8963333",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 316.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-26,key_photo,PicturesOriginal/IMG_0292.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-26,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-26,photo_heading,316.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-27,coordinate,"52.3755,4.897",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 78.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-27,key_photo,PicturesOriginal/IMG_0043.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-27,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-27,photo_heading,78.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-4,coordinate,"52.3753333,4.898",photos-2009,2009-10-16,0.9,"own GPS, DOP 5.0, camera bearing 70.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-4,key_photo,PicturesOriginal/IMG_1261.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-4,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudebrugsteeg-4,photo_heading,70.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudekerksplein-54,coordinate,"52.374,4.8976667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 225.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudekerksplein-54,key_photo,PicturesOriginal/IMG_0277.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudekerksplein-54,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudekerksplein-54,photo_heading,225.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-achterburgwal-61,coordinate,"52.3736667,4.899",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 181.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-achterburgwal-61,key_photo,PicturesOriginal/IMG_1221.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-achterburgwal-61,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-achterburgwal-61,photo_heading,181.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-132,coordinate,"52.3733333,4.898",photos-2009,2009-10-06,0.9,"own GPS, DOP 5.0, camera bearing 284.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-132,key_photo,PicturesOriginal/IMG_0264.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-132,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-132,photo_heading,284.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-189,coordinate,"52.3713333,4.896",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 31.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-189,key_photo,PicturesOriginal/IMG_0254.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-189,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-189,photo_heading,31.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-191,coordinate,"52.3715,4.8956667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 30.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-191,key_photo,PicturesOriginal/IMG_0256.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-191,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-191,photo_heading,30.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-220,coordinate,"52.3725,4.8973333",photos-2009,2009-10-06,0.6,"own GPS, DOP 10.0, camera bearing 283.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-220,key_photo,PicturesOriginal/IMG_0259.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-220,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-220,photo_heading,283.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-250,coordinate,"52.3718333,4.896",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 266.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-250,key_photo,PicturesOriginal/IMG_0249.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-250,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-250,photo_heading,266.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-36,coordinate,"52.3751667,4.8995",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-36,key_photo,PicturesOriginal/IMG_1246.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-36,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-90,coordinate,"52.3735,4.898",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 0.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-90,key_photo,PicturesOriginal/IMG_0269.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-90,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-voorburgwal-90,photo_heading,0.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-vorburgwal-47,coordinate,"52.3745,4.8995",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 174.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-vorburgwal-47,key_photo,PicturesOriginal/IMG_1243.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-vorburgwal-47,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+oudezijds-vorburgwal-47,photo_heading,174.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+overtoom-342,coordinate,"52.3605,4.8663333",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 24.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+overtoom-342,key_photo,PicturesOriginal/IMG_0766.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+overtoom-342,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+overtoom-342,photo_heading,24.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+overtoom-451,coordinate,"52.3588333,4.8591667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 39.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+overtoom-451,key_photo,PicturesOriginal/IMG_0761.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+overtoom-451,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+overtoom-451,photo_heading,39.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+papaverweg-2,coordinate,"52.3936667,4.9126667",photos-2009,2009-10-18,0.9,"own GPS, DOP 3.0, camera bearing 47.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+papaverweg-2,key_photo,PicturesOriginal/IMG_1288.JPG,photos-2009,2009-10-18,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+papaverweg-2,trading,true,photos-2009,2009-10-18,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+papaverweg-2,photo_heading,47.9,photos-2009,2009-10-18,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+parlevinker-8,coordinate,"52.4115,4.9221667",photos-2009,2009-10-18,0.9,"own GPS, DOP 1.0, camera bearing 255.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+parlevinker-8,key_photo,PicturesOriginal/IMG_1283.JPG,photos-2009,2009-10-18,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+parlevinker-8,trading,true,photos-2009,2009-10-18,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+parlevinker-8,photo_heading,255.9,photos-2009,2009-10-18,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+pieter-vlamingstraat-98,coordinate,"52.3651667,4.9278333",photos-2009,2009-10-13,0.9,"own GPS, DOP 0.5, camera bearing 74.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+pieter-vlamingstraat-98,key_photo,PicturesOriginal/IMG_0464.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+pieter-vlamingstraat-98,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+pieter-vlamingstraat-98,photo_heading,74.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+pretoriusstraat-67,coordinate,"52.355,4.922",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 42.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+pretoriusstraat-67,key_photo,PicturesOriginal/IMG_0500.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+pretoriusstraat-67,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+pretoriusstraat-67,photo_heading,42.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+prins-hendrikkade-6,coordinate,"52.3788333,4.8951667",photos-2009,2009-10-06,0.9,"own GPS, DOP 5.0, camera bearing 152.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+prins-hendrikkade-6,key_photo,PicturesOriginal/IMG_0423.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+prins-hendrikkade-6,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+prins-hendrikkade-6,photo_heading,152.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+prins-hendrikkade-89,coordinate,"52.3768333,4.9023333",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 185.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+prins-hendrikkade-89,key_photo,PicturesOriginal/IMG_0031.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+prins-hendrikkade-89,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+prins-hendrikkade-89,photo_heading,185.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-312,coordinate,"52.3695,4.8826667",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 242.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-312,key_photo,PicturesOriginal/IMG_1091.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-312,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-312,photo_heading,242.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-476,coordinate,"52.3643333,4.8858333",photos-2009,2009-10-15,0.6,"own GPS, camera bearing 265.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-476,key_photo,PicturesOriginal/IMG_0881.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-476,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-476,photo_heading,265.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-480,coordinate,"52.3643333,4.8853333",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0",CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-480,key_photo,PicturesOriginal/IMG_0876.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+prinsengracht-480,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+raadhuisstraat-8,coordinate,"52.373,4.8883333",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 226.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+raadhuisstraat-8,key_photo,PicturesOriginal/IMG_0222.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+raadhuisstraat-8,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+raadhuisstraat-8,photo_heading,226.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-29,coordinate,"52.3666667,4.8896667",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 37.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-29,key_photo,PicturesOriginal/IMG_0165.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-29,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-29,photo_heading,37.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-6,coordinate,"52.3673333,4.8898333",photos-2009,2009-10-06,0.6,"own GPS, DOP 10.0, camera bearing 166.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-6,key_photo,PicturesOriginal/IMG_0168.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-6,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-6,photo_heading,166.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-70,coordinate,"52.3663333,4.893",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 132.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-70,key_photo,PicturesOriginal/IMG_0147.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-70,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+reguliersdwarsstraat-70,photo_heading,132.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+reguliersgracht-27,coordinate,"52.3635,4.8961667",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 119.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+reguliersgracht-27,key_photo,PicturesOriginal/IMG_0848.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+reguliersgracht-27,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+reguliersgracht-27,photo_heading,119.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+regulierssteeg-2,coordinate,"52.367,4.8951667",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 110.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+regulierssteeg-2,key_photo,PicturesOriginal/IMG_0142.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+regulierssteeg-2,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+regulierssteeg-2,photo_heading,110.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+rembrandtplein-24,coordinate,"52.3658333,4.8963333",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 127.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+rembrandtplein-24,key_photo,PicturesOriginal/IMG_0862.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+rembrandtplein-24,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+rembrandtplein-24,photo_heading,127.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+rietwijkerstraat-30,coordinate,"52.3493333,4.8493333",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 331.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+rietwijkerstraat-30,key_photo,PicturesOriginal/IMG_0670.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+rietwijkerstraat-30,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+rietwijkerstraat-30,photo_heading,331.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+roetersstraat-12,coordinate,"52.363,4.9106667",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 137.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+roetersstraat-12,key_photo,PicturesOriginal/IMG_0470.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+roetersstraat-12,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+roetersstraat-12,photo_heading,137.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+rosmarijnsteeg-9,coordinate,"52.37,4.8893333",photos-2009,2009-10-06,0.6,"own GPS, DOP 10.0, camera bearing 223.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+rosmarijnsteeg-9,key_photo,PicturesOriginal/IMG_0240.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+rosmarijnsteeg-9,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+rosmarijnsteeg-9,photo_heading,223.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+rozengracht-139,coordinate,"52.3726667,4.8785",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 11.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+rozengracht-139,key_photo,PicturesOriginal/IMG_0209.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+rozengracht-139,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+rozengracht-139,photo_heading,11.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+rozengracht-1a,coordinate,"52.3738333,4.8828333",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 88.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+rozengracht-1a,key_photo,PicturesOriginal/IMG_0216.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+rozengracht-1a,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+rozengracht-1a,photo_heading,88.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+rusland-16,coordinate,"52.37,4.8961667",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 199.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+rusland-16,key_photo,PicturesOriginal/IMG_1049.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+rusland-16,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+rusland-16,photo_heading,199.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+ruysdaelkade-145,coordinate,"52.3536667,4.8871667",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 37.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+ruysdaelkade-145,key_photo,PicturesOriginal/IMG_0566.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+ruysdaelkade-145,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+ruysdaelkade-145,photo_heading,37.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+sarphatistraat-87,coordinate,"52.3613333,4.9091667",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 27.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+sarphatistraat-87,key_photo,PicturesOriginal/IMG_0477.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+sarphatistraat-87,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+sarphatistraat-87,photo_heading,27.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+singel-12,coordinate,"52.379,4.894",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 331.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+singel-12,key_photo,PicturesOriginal/IMG_0373.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+singel-12,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+singel-12,photo_heading,331.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+singel-14,coordinate,"52.3761667,4.8928333",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 359.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+singel-14,key_photo,PicturesOriginal/IMG_0335.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+singel-14,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+singel-14,photo_heading,359.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+singel-387,coordinate,"52.3688333,4.8881667",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 359.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+singel-387,key_photo,PicturesOriginal/IMG_1063.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+singel-387,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+singel-387,photo_heading,359.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+singel-8,coordinate,"52.379,4.8945",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 283.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+singel-8,key_photo,PicturesOriginal/IMG_0370.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+singel-8,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+singel-8,photo_heading,283.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+sint-antoniesbreestraat-71,coordinate,"52.3696667,4.9008333",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 38.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+sint-antoniesbreestraat-71,key_photo,PicturesOriginal/IMG_1001.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+sint-antoniesbreestraat-71,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+sint-antoniesbreestraat-71,photo_heading,38.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+sint-antoniesbreestraat-77,coordinate,"52.37,4.9006667",photos-2009,2009-10-16,0.6,"own GPS, camera bearing 249.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+sint-antoniesbreestraat-77,key_photo,PicturesOriginal/IMG_1009.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+sint-antoniesbreestraat-77,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+sint-antoniesbreestraat-77,photo_heading,249.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spaarndammerdijk-9,coordinate,"52.3918333,4.8778333",photos-2009,2009-10-15,0.9,"own GPS, DOP 1.0, camera bearing 270.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spaarndammerdijk-9,key_photo,PicturesOriginal/IMG_0958.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spaarndammerdijk-9,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spaarndammerdijk-9,photo_heading,270.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-118,coordinate,"52.3746667,4.8905",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 303.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-118,key_photo,PicturesOriginal/IMG_0325.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-118,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-118,photo_heading,303.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-19,coordinate,"52.377,4.8935",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 142.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-19,key_photo,PicturesOriginal/IMG_0336.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-19,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-19,photo_heading,142.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-222,coordinate,"52.3716667,4.8893333",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 160.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-222,key_photo,PicturesOriginal/IMG_0228.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-222,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-222,photo_heading,160.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-260,coordinate,"52.3708333,4.8891667",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 199.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-260,key_photo,PicturesOriginal/IMG_0235.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-260,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-260,photo_heading,199.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-46,coordinate,"52.3761667,4.8925",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 294.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-46,key_photo,PicturesOriginal/IMG_1176.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-46,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-46,photo_heading,294.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-51,coordinate,"52.376,4.8925",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 87.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-51,key_photo,PicturesOriginal/IMG_0332.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-51,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-51,photo_heading,87.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-7,coordinate,"52.3771667,4.894",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 225.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-7,key_photo,PicturesOriginal/IMG_0341.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-7,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-7,photo_heading,225.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-80,coordinate,"52.376,4.8916667",photos-2009,2009-10-06,0.6,"own GPS, DOP 10.0, camera bearing 270.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-80,key_photo,PicturesOriginal/IMG_0328.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-80,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+spuistraat-80,photo_heading,270.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+stadionkade-107,coordinate,"52.3433333,4.8641667",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 299.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+stadionkade-107,key_photo,PicturesOriginal/IMG_0656.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+stadionkade-107,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+stadionkade-107,photo_heading,299.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+surinamestraat-7,coordinate,"52.358,4.854",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 96.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+surinamestraat-7,key_photo,PicturesOriginal/IMG_0755.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+surinamestraat-7,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+surinamestraat-7,photo_heading,96.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+thorbeckeplein-28,coordinate,"52.3655,4.8958333",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 234.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+thorbeckeplein-28,key_photo,PicturesOriginal/IMG_0153.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+thorbeckeplein-28,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+thorbeckeplein-28,photo_heading,234.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+tolstraat-91,coordinate,"52.3523333,4.9035",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 279.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+tolstraat-91,key_photo,PicturesOriginal/IMG_0533.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+tolstraat-91,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+tolstraat-91,photo_heading,279.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+utrechtsestraat-14,coordinate,"52.3648333,4.8975",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 218.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+utrechtsestraat-14,key_photo,PicturesOriginal/IMG_0836.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+utrechtsestraat-14,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+utrechtsestraat-14,photo_heading,218.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+utrechtsestraat-21,coordinate,"52.3653333,4.8981667",photos-2009,2009-10-15,0.6,"own GPS, camera bearing 172.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+utrechtsestraat-21,key_photo,PicturesOriginal/IMG_0841.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+utrechtsestraat-21,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+utrechtsestraat-21,photo_heading,172.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+van-boetzelaerstraat-31,coordinate,"52.3825,4.873",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 140.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+van-boetzelaerstraat-31,key_photo,PicturesOriginal/IMG_0952.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+van-boetzelaerstraat-31,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+van-boetzelaerstraat-31,photo_heading,140.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+van-der-helstplein-8,coordinate,"52.3516667,4.8948333",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 226.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+van-der-helstplein-8,key_photo,PicturesOriginal/IMG_0543.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+van-der-helstplein-8,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+van-der-helstplein-8,photo_heading,226.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+van-hogendorpstraat-201,coordinate,"52.3826667,4.871",photos-2009,2009-10-06,0.9,"own GPS, DOP 3.0, camera bearing 89.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+van-hogendorpstraat-201,key_photo,PicturesOriginal/IMG_0398.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+van-hogendorpstraat-201,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+van-hogendorpstraat-201,photo_heading,89.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+van-ostadestraat-290,coordinate,"52.3535,4.8995",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 110.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+van-ostadestraat-290,key_photo,PicturesOriginal/IMG_0642.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+van-ostadestraat-290,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+van-ostadestraat-290,photo_heading,110.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-147,coordinate,"52.353,4.9026667",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 132.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-147,key_photo,PicturesOriginal/IMG_0539.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-147,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-147,photo_heading,132.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-193,coordinate,"52.3511667,4.9035",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 16.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-193,key_photo,PicturesOriginal/IMG_0527.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-193,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-193,photo_heading,16.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-87,coordinate,"52.3545,4.9015",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 349.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-87,key_photo,PicturesOriginal/IMG_0854.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-87,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+van-woustraat-87,photo_heading,349.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+vechtstraat-63,coordinate,"52.3461667,4.9063333",photos-2009,2009-10-13,0.6,"own GPS, camera bearing 24.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+vechtstraat-63,key_photo,PicturesOriginal/IMG_0514.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+vechtstraat-63,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+vechtstraat-63,photo_heading,24.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+vechtstraat-9,coordinate,"52.3485,4.9055",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 13.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+vechtstraat-9,key_photo,PicturesOriginal/IMG_0522.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+vechtstraat-9,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+vechtstraat-9,photo_heading,13.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+vijzelgracht-33,coordinate,"52.3611667,4.8913333",photos-2009,2009-10-06,0.6,"own GPS, camera bearing 36.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+vijzelgracht-33,key_photo,PicturesOriginal/IMG_0160.JPG,photos-2009,2009-10-06,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+vijzelgracht-33,trading,true,photos-2009,2009-10-06,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+vijzelgracht-33,photo_heading,36.9,photos-2009,2009-10-06,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+vijzelgracht-47,coordinate,"52.3608333,4.891",photos-2009,2009-10-08,0.9,"own GPS, DOP 5.0, camera bearing 156.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+vijzelgracht-47,key_photo,PicturesOriginal/IMG_0433.JPG,photos-2009,2009-10-08,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+vijzelgracht-47,trading,true,photos-2009,2009-10-08,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+vijzelgracht-47,photo_heading,156.9,photos-2009,2009-10-08,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+vondelstraat-104,coordinate,"52.3618333,4.8741667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 231.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+vondelstraat-104,key_photo,PicturesOriginal/IMG_0773.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+vondelstraat-104,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+vondelstraat-104,photo_heading,231.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-24,coordinate,"52.3753333,4.8988333",photos-2009,2009-10-04,0.9,"own GPS, DOP 5.0, camera bearing 226.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-24,key_photo,PicturesOriginal/IMG_0027.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-24,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-24,photo_heading,226.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-36,coordinate,"52.3755,4.8983333",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 9.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-36,key_photo,PicturesOriginal/IMG_0023.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-36,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-36,photo_heading,9.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-37,coordinate,"52.3755,4.8983333",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 9.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-37,key_photo,PicturesOriginal/IMG_0021.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-37,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-37,photo_heading,9.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-52,coordinate,"52.3755,4.8983333",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 221.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-52,key_photo,PicturesOriginal/IMG_0020.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-52,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-52,photo_heading,221.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-53,coordinate,"52.3751667,4.8978333",photos-2009,2009-10-04,0.9,"own GPS, DOP 3.0, camera bearing 30.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-53,key_photo,PicturesOriginal/IMG_0017.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-53,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-53,photo_heading,30.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-59,coordinate,"52.3748333,4.8968333",photos-2009,2009-10-04,0.9,"own GPS, DOP 3.0, camera bearing 89.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-59,key_photo,PicturesOriginal/IMG_0004.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-59,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-59,photo_heading,89.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-64,coordinate,"52.3751667,4.8978333",photos-2009,2009-10-04,0.9,"own GPS, DOP 3.0, camera bearing 344.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-64,key_photo,PicturesOriginal/IMG_0014.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-64,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-64,photo_heading,344.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-70,coordinate,"52.375,4.8973333",photos-2009,2009-10-04,0.9,"own GPS, DOP 3.0, camera bearing 168.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-70,key_photo,PicturesOriginal/IMG_0010.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-70,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-70,photo_heading,168.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-73,coordinate,"52.375,4.8973333",photos-2009,2009-10-04,0.9,"own GPS, DOP 3.0, camera bearing 102.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-73,key_photo,PicturesOriginal/IMG_0008.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-73,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-73,photo_heading,102.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-77,coordinate,"52.3746667,4.8971667",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 99.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-77,key_photo,PicturesOriginal/IMG_0006.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-77,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+warmoesstraat-77,photo_heading,99.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+waterlooplein-345,coordinate,"52.3668333,4.9018333",photos-2009,2009-10-04,0.6,"own GPS, camera bearing 128.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+waterlooplein-345,key_photo,PicturesOriginal/IMG_0055.JPG,photos-2009,2009-10-04,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+waterlooplein-345,trading,true,photos-2009,2009-10-04,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+waterlooplein-345,photo_heading,128.9,photos-2009,2009-10-04,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+westerstraat-121,coordinate,"52.3783333,4.883",photos-2009,2009-10-16,0.9,"own GPS, DOP 1.0, camera bearing 159.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+westerstraat-121,key_photo,PicturesOriginal/IMG_1132.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+westerstraat-121,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+westerstraat-121,photo_heading,159.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+wibautstraat-115,coordinate,"52.3561667,4.9121667",photos-2009,2009-10-13,0.9,"own GPS, DOP 3.0, camera bearing 322.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+wibautstraat-115,key_photo,PicturesOriginal/IMG_0489.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+wibautstraat-115,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+wibautstraat-115,photo_heading,322.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+wijde-kerksteeg-3,coordinate,"52.3745,4.897",photos-2009,2010-01-17,0.9,"own GPS, DOP 3.0",CC-BY-4.0 for the images; the readings off them are CC0
+wijde-kerksteeg-3,key_photo,PicturesOriginal/IMG_5100.JPG,photos-2009,2010-01-17,1.0,Apple iPhone 3G,CC-BY-4.0 for the images; the readings off them are CC0
+wijde-kerksteeg-3,trading,true,photos-2009,2010-01-17,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+witte-de-withstraat-106,coordinate,"52.369,4.8593333",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 281.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+witte-de-withstraat-106,key_photo,PicturesOriginal/IMG_0808.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+witte-de-withstraat-106,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+witte-de-withstraat-106,photo_heading,281.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+witte-de-withstraat-30,coordinate,"52.3658333,4.8591667",photos-2009,2009-10-14,0.9,"own GPS, DOP 3.0, camera bearing 38.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+witte-de-withstraat-30,key_photo,PicturesOriginal/IMG_0805.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+witte-de-withstraat-30,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+witte-de-withstraat-30,photo_heading,38.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+woestduinstraat-76,coordinate,"52.3521667,4.8476667",photos-2009,2009-10-14,0.9,"own GPS, DOP 1.0, camera bearing 122.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+woestduinstraat-76,key_photo,PicturesOriginal/IMG_0673.JPG,photos-2009,2009-10-14,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+woestduinstraat-76,trading,true,photos-2009,2009-10-14,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+woestduinstraat-76,photo_heading,122.9,photos-2009,2009-10-14,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+zeeburgerdijk-33,coordinate,"52.366,4.9298333",photos-2009,2009-10-13,0.9,"own GPS, DOP 5.0, camera bearing 217.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+zeeburgerdijk-33,key_photo,PicturesOriginal/IMG_0459.JPG,photos-2009,2009-10-13,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+zeeburgerdijk-33,trading,true,photos-2009,2009-10-13,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+zeeburgerdijk-33,photo_heading,217.9,photos-2009,2009-10-13,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+zieseniskade-22,coordinate,"52.3616667,4.8861667",photos-2009,2009-10-15,0.9,"own GPS, DOP 3.0, camera bearing 179.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+zieseniskade-22,key_photo,PicturesOriginal/IMG_0867.JPG,photos-2009,2009-10-15,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+zieseniskade-22,trading,true,photos-2009,2009-10-15,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+zieseniskade-22,photo_heading,179.9,photos-2009,2009-10-15,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0
+zoutsteeg-14,coordinate,"52.3743333,4.8935",photos-2009,2009-10-16,0.9,"own GPS, DOP 3.0, camera bearing 274.9 deg true",CC-BY-4.0 for the images; the readings off them are CC0
+zoutsteeg-14,key_photo,PicturesOriginal/IMG_1185.JPG,photos-2009,2009-10-16,1.0,Apple iPhone 3GS,CC-BY-4.0 for the images; the readings off them are CC0
+zoutsteeg-14,trading,true,photos-2009,2009-10-16,1.0,"photographed open; presence attested, not a claim about today",CC-BY-4.0 for the images; the readings off them are CC0
+zoutsteeg-14,photo_heading,274.9,photos-2009,2009-10-16,1.0,the shopfront lies along this bearing from the fix,CC-BY-4.0 for the images; the readings off them are CC0

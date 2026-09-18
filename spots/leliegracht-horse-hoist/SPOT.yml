@@ -1,0 +1,51 @@
+# A spot: a place worth standing in that nobody sells anything at. Keyed by what it is, because
+# a rescue that happened on a bridge in 1929 has no house number of its own.
+# The story is in STORY.md. The photograph's provenance is in the sidecar beside it.
+
+inherits: [spot, place]
+
+id: leliegracht-horse-hoist
+name: "the horse-lifting scene"
+
+what_happened_here: |
+  July 1929: a bolted horse, in the water since the Westermarkt, hoisted out under the Leliegracht
+  bridge by the fire brigade with a machine invented at Marnixstraat 194 seventy years earlier.
+  A crowd watched, as a crowd always did.
+
+where:
+  street: Leliegracht
+  between: [Keizersgracht, Herengracht]
+  hoisted_at: "the bridge where Leliegracht meets the Herengracht"
+  camera_looked: "along Leliegracht, past numbers 8 and 10"
+  landmark: "the Cow Museum at Leliegracht 4, in the same short block"
+  landmark_source: dons-testimony-2026     # how Don navigates back to it
+  coordinates:
+    claims: []
+    # Deliberately empty. Don's rephotograph is geotagged, so the fix arrives with the photo
+    # rather than from a map lookup — which is also the only kind of fix this project may
+    # ever upload. See sources.yml.
+    pending: "from the rephotography track point"
+
+photographs:
+  - 1929-07-leliegracht-toestel-van-sinck.jpg     # sidecar: same name, .yml
+
+# The pairing Don rode without planning it: buy at the yard, smoke at the rescue. A few blocks
+# apart, and the second half is only interesting because of the first.
+ride:
+  pairs_with: places/marnixstraat-194            # 1e Hulp, formerly the horse butchery
+  order: [buy_at_the_yard, sit_at_the_scene]
+  observed: "Don did it in this order, on a ride, before either was written down"
+  distance: "a few blocks"
+
+ceremony:
+  open_to: visitors
+  suggested: "sit, read the story, look at where the crowd stood"
+  # No points and no check-in. The reward for coming here is knowing what happened here,
+  # which is not a reward a scoring system can hand out.
+
+survey:
+  rephotography:
+    exists: true
+    by: don
+    in_repo: false
+    task: "pull the frame and the track point off the ride and pair it with the 1929 sidecar"

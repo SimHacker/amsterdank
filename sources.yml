@@ -53,6 +53,41 @@ sources:
     osm_ok: false
     note: "Hours, websites, Instagram, many coordinates, and CannaMap's closed-status flags."
 
+  stadsarchief-amsterdam:
+    name: "Stadsarchief Amsterdam — Beeldbank and its own articles"
+    url: "https://archief.amsterdam/beeldbank/"
+    kind: archive
+    license: |
+      Per image. Most of the Beeldbank is either the Stadsarchief's own copyright or has none
+      left, and those are marked auteursrechtvrij and downloadable — free to reuse, crediting
+      "Stadsarchief Amsterdam" plus the maker. Anything held by a third party is not downloadable
+      and needs the rightsholder. Check the record, never assume from the neighbours.
+    osm_ok: false
+    reason_not_ok: "Historic photographs are not position fixes, and a 1929 quay is not a 2026 one."
+    used_for: "the horse crane at spots/leliegracht-horse-hoist, and the trades that preceded shops"
+
+  press-and-reference:
+    name: "Press, encyclopaedias and heritage sites"
+    kind: third-party
+    license: "not ours"
+    osm_ok: false
+    policy: |
+      Facts in our words, cited so they can be checked: closure dates, the policy behind a
+      closure, founding years, who founded what. Never a paragraph lifted whole. Where accounts
+      disagree — Mellow Yellow's 1972 or 1973 — the register keeps both rather than picking.
+    used_for: "the afstandscriterium cohort of 2017, and Mellow Yellow's two addresses"
+
+  visitor-reviews-third-party:
+    name: "Reviews on third-party aggregators"
+    kind: third-party
+    license: "not ours"
+    osm_ok: false
+    policy: |
+      Same deal as the 2013 comments: facts only, in our words, reviewers never named and never
+      quoted. Useful for one thing a directory cannot tell you — whether a room matches its own
+      name. Two reviewers expecting a Cheech and Chong theme and finding none is evidence about
+      a persona; their prose is theirs.
+
   pdok:
     name: "PDOK Locatieserver (Kadaster)"
     url: "https://www.pdok.nl/"

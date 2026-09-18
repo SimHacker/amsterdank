@@ -1,0 +1,57 @@
+# Sidecar for the image beside it. One file per image, same basename. The image is the artifact;
+# this is everything the artifact cannot say about itself. STORY.md is where a human reads it.
+
+file: 1929-07-leliegracht-toestel-van-sinck.jpg
+kind: photograph
+dated: 1929-07                    # the archive dates it to the month; the press ran it 16 July
+
+shows: |
+  The Amsterdam fire brigade lifting a horse out of the canal with the toestel van Sinck, a
+  wheeled tripod hoist. A crowd has gathered to watch, which the archive notes was the norm:
+  when the horse crane came out, so did everybody.
+
+subject:
+  machine: "het toestel van Sinck — invented ~1860 at Marnixstraat 194"
+  operated_by: "brandweer"        # the city bought the device from Sinck's sons in 1917
+  the_horse: "of the firm Vogelpoel en Noorwegen"
+
+view:
+  street: Leliegracht
+  house_numbers: "8, 10 and onward, right to left"
+  looking: "along Leliegracht, Keizersgracht to the left, Herengracht to the right"
+  # Don's landmark for finding the spot again: the Cow Museum at Leliegracht 4 is in this block.
+
+provenance:
+  archive: "Stadsarchief Amsterdam"
+  collection: "Collectie Stadsarchief Amsterdam: foto's"
+  image_id: OSIM00002000423
+  record: "https://archief.amsterdam/beeldbank/detail/875cdbf3-7446-3044-ea31-e0232fb759be"
+  maker: "Vereenigde Fotobureaux N.V."
+  maker_possibly: "F. C. de Haan"     # the archive's own suggestion, not established
+  also_printed: "Algemeen Handelsblad, evening edition, 16 July 1929"
+  source: stadsarchief-amsterdam
+
+rights:
+  status: "auteursrechtvrij"        # the archive's own designation: no copyright subsists
+  reuse: "free, including commercially"
+  credit_required: "Stadsarchief Amsterdam, Vereenigde Fotobureaux N.V."
+  # Which is why this one may live in the repo at all. Compare the menu-board photographs on
+  # third-party sites, which we point at and never copy. See LICENSE-DATA.
+
+this_copy:
+  pixels: [439, 600]
+  note: "working copy at the largest preset the mediabank serves without an account. The archive
+         scans at 300dpi true size; pull the original under the same id when print matters."
+  fetched: 2026-09-16
+
+rephotography:
+  status: exists                  # Don has stood here and shot the same angle
+  by: don
+  geotagged: true
+  timestamped: true
+  on_a_ride: true                 # attached to one of his eBike tracks, which dates it exactly
+  in_repo: false
+  task: "find the ride, pull the frame and the track point, and pair it with this file"
+  why: |
+    A then-and-now pair from one viewpoint is the cheapest time machine there is, and the second
+    half is already shot. Same angle, ninety-seven years apart, one of them with a GPS fix.
