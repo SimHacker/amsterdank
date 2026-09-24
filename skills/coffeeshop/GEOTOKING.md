@@ -112,10 +112,12 @@ is nobody's business but yours.
 
 ## Bongo Bingo, which already existed
 
-The 2009 TurboGears backend had a `bingo_card` table, a shared `gameSeed` so a whole season
-plays the same deck, a per-card `cardSeed` so no two cards match, a 5×5 grid headed **BONGO**
-with a free centre square, a 3×3 `usa` variant, and an 11×11 variant headed **GODVERDOMME**.
-Squares were coffeeshops. Marks came from Foursquare check-ins.
+The whole story is in [BONGO-BINGO.md](BONGO-BINGO.md). In short: the TurboGears backend,
+which Don published for the Amsterdam Cannabis Cup in November 2011, had a `bingo_card` table,
+a shared `gameSeed` so a whole season plays the same deck, a per-card `cardSeed` so no two
+cards match, a 5×5 grid headed **BONGO** with a free centre square, a 3×3 `usa` variant, and
+an 11×11 variant headed **GODVERDOMME**. Squares were coffeeshops. Marks came from your
+Foursquare venue history, which the server fetched from the Foursquare API.
 
 Foursquare check-ins are gone, and the replacement is better: a mark is **your own
 photograph with GPS EXIF within N metres of the square**. Same game, no platform, and the
@@ -124,7 +126,7 @@ is reproducible from two integers, which is how a card can be shared as a link a
 later.
 
 `GODVERDOMME` is eleven letters, so the big card is 121 squares against a roster of 167
-tolerated addresses. It remains, as it was in 2009, a poor life decision and an excellent
+tolerated addresses. It remains, as it was in 2011, a poor life decision and an excellent
 data collection strategy.
 
 ## Related
