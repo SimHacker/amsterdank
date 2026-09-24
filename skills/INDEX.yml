@@ -37,8 +37,7 @@ skills:
     activates_on: [coffeeshop, menu, board, gedoogd, wiet, hasj, geotoking, budtender, bingo]
     plugins:
       BUDTENDERS.md: "consent tiers for real people at the counter; the robot when nobody agreed"
-      GEOTOKING.md: "inventory, spots without addresses, signed episodes, Bongo Bingo in brief"
-      BONGO-BINGO.md: "the 2011 Foursquare game, its photo-marked successor, and how it plugs into Ebike Safari as one rubric among many"
+      GEOTOKING.md: "inventory, spots without addresses, signed episodes, Bongo Bingo in brief (full design lives in ebike-safari/design/bongo-bingo.md)"
     a_shop_is_a_directory: |
       places/<id>/ holds PLACE.yml (moollm place), ROOM.yml (moollm room), COFFEESHOP.yml,
       and subdirectories menu/ survey/ characters/ objects/. The listing is the index of

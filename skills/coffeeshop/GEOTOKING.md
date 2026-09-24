@@ -112,7 +112,8 @@ is nobody's business but yours.
 
 ## Bongo Bingo, which already existed
 
-The whole story is in [BONGO-BINGO.md](BONGO-BINGO.md). In short: the TurboGears backend,
+The whole story is in the Ebike Safari design,
+[bongo-bingo.md](https://github.com/SimHacker/WillWrightShowForFood/blob/main/apps/ebike-safari/design/bongo-bingo.md). In short: the TurboGears backend,
 which Don published for the Amsterdam Cannabis Cup in November 2011, had a `bingo_card` table,
 a shared `gameSeed` so a whole season plays the same deck, a per-card `cardSeed` so no two
 cards match, a 5×5 grid headed **BONGO** with a free centre square, a 3×3 `usa` variant, and
