@@ -243,8 +243,9 @@ sources:
       Dated 2010-09-14, three years before the Wayback crawl, and it explains what the 2013 page
       only implies: the chair was "reserved for and named after him". It also has Don SEEING
       Sinclair in it, and puts the radio show inside the room in the present tense.
-    private_original: "SimHacker/DonHopkins (private) — filed under the correspondent, thread 'amsterdam-visit-2010'"
-    # The path itself is withheld, because a path with a person's name in it names the person.
+    private_original: "Don's private archive, filed under the correspondent"
+    # The repo and path are withheld: a private repo is never named in a public one, and a
+    # path with a person's name in it names the person.
     # A withholding undone by its own citation is not a withholding.
     # The correspondent is withheld on purpose. He is a public figure and the meeting was
     # innocuous, but a coffeeshop dataset has no need for a third party's 2010 travel plans,
