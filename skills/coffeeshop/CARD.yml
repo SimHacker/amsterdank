@@ -20,7 +20,12 @@ tools:
 
 tier: 2
 
-inherits: [room, place]
+inherits:
+  - moollm://github/SimHacker/moollm/skills/place/
+  - moollm://github/SimHacker/moollm/skills/room/
+  - moollm://github/SimHacker/moollm/skills/budtender/
+  - moollm://github/SimHacker/moollm/skills/character/
+  - moollm://github/SimHacker/moollm/skills/representation-ethics/
 
 fields:
 
